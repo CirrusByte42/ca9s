@@ -18,14 +18,14 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1773](https://github.com/derailed/k9s/issues/1773) CustomResourceDefinition does not display
+* [Issue #1773](https://github.com/CirrusByte42/ca9s/issues/1773) CustomResourceDefinition does not display
 
 ## Contributed PRs (Thank you!!)
 
-* [PR #1777](https://github.com/derailed/k9s/pull/1777) Fix directory path when viewing screendump
-* [PR #1776](https://github.com/derailed/k9s/pull/1776) Add a closing tag when showing timestamp in log view
-* [PR #1775](https://github.com/derailed/k9s/pull/1775) Log toggles: add a space after "on" in logs view
-* [PR #1772](https://github.com/derailed/k9s/pull/1772) docs: update homebrew installation note
+* [PR #1777](https://github.com/CirrusByte42/ca9s/pull/1777) Fix directory path when viewing screendump
+* [PR #1776](https://github.com/CirrusByte42/ca9s/pull/1776) Add a closing tag when showing timestamp in log view
+* [PR #1775](https://github.com/CirrusByte42/ca9s/pull/1775) Log toggles: add a space after "on" in logs view
+* [PR #1772](https://github.com/CirrusByte42/ca9s/pull/1772) docs: update homebrew installation note
 
 ---
 

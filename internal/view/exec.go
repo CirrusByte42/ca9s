@@ -16,12 +16,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/derailed/k9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/render"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/ui/dialog"
 	"github.com/fatih/color"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"

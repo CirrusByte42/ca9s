@@ -25,6 +25,6 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-+ [Issue #117](https://github.com/derailed/k9s/issues/117)
++ [Issue #117](https://github.com/CirrusByte42/ca9s/issues/117)
   Was filtering out inactive ns which need to be there for all to see anyway!
-+ [Issue #59](https://github.com/derailed/k9s/issues/59)
++ [Issue #59](https://github.com/CirrusByte42/ca9s/issues/59)

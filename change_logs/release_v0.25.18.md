@@ -18,7 +18,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1402](https://github.com/derailed/k9s/issues/1402) Sort functionality does not work properly on v0.25.16. With Feelings!
+* [Issue #1402](https://github.com/CirrusByte42/ca9s/issues/1402) Sort functionality does not work properly on v0.25.16. With Feelings!
 
 ---
 

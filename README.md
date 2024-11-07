@@ -1,10 +1,12 @@
 <img src="assets/k9s.png" alt="k9s">
 
-## K9s - Kubernetes CLI To Manage Your Clusters In Style!
+## Ca9s - CLI To Manage Your CAAS Application In Style! CAAS version of K9s
 
-K9s provides a terminal UI to interact with your Kubernetes clusters.
+Ca9s provides a terminal UI to interact with your CAAS application for all cloud provider.
+Supported cloud provider :
+ - AWS
 The aim of this project is to make it easier to navigate, observe and manage
-your applications in the wild. K9s continually watches Kubernetes
+your applications in the wild. K9s continually watches CloudProvider API
 for changes and offers subsequent commands to interact with your observed resources.
 
 ---
@@ -25,9 +27,9 @@ Your donations will go a long way in keeping our servers lights on and beers in 
 [![codebeat badge](https://codebeat.co/badges/89e5a80e-dfe8-4426-acf6-6be781e0a12e)](https://codebeat.co/projects/github-com-derailed-k9s-master)
 [![Build Status](https://api.travis-ci.com/derailed/k9s.svg?branch=master)](https://travis-ci.com/derailed/k9s)
 [![Docker Repository on Quay](https://quay.io/repository/derailed/k9s/status "Docker Repository on Quay")](https://quay.io/repository/derailed/k9s)
-[![release](https://img.shields.io/github/release-pre/derailed/k9s.svg)](https://github.com/derailed/k9s/releases)
+[![release](https://img.shields.io/github/release-pre/derailed/k9s.svg)](https://github.com/CirrusByte42/ca9s/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/mum4k/termdash/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/downloads/derailed/k9s/total.svg)](https://github.com/derailed/k9s/releases)
+[![Releases](https://img.shields.io/github/downloads/derailed/k9s/total.svg)](https://github.com/CirrusByte42/ca9s/releases)
 
 ---
 
@@ -74,7 +76,7 @@ Wanna discuss K9s features with your fellow `K9sers` or simply show your support
 ## Installation
 
 K9s is available on Linux, macOS and Windows platforms.
-Binaries for Linux, Windows and Mac are available as tarballs in the [release page](https://github.com/derailed/k9s/releases).
+Binaries for Linux, Windows and Mac are available as tarballs in the [release page](https://github.com/CirrusByte42/ca9s/releases).
 
 * Via [Homebrew](https://brew.sh/) for macOS or Linux
 
@@ -115,7 +117,7 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
 * On Ubuntu
 
   ```shell
-  wget https://github.com/derailed/k9s/releases/download/v0.32.5/k9s_linux_amd64.deb && apt install ./k9s_linux_amd64.deb && rm k9s_linux_amd64.deb
+  wget https://github.com/CirrusByte42/ca9s/releases/download/v0.32.5/k9s_linux_amd64.deb && apt install ./k9s_linux_amd64.deb && rm k9s_linux_amd64.deb
   ```
 
 * Via [Winget](https://github.com/microsoft/winget-cli) for Windows
@@ -242,18 +244,6 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
 
 ---
 
-## K8S Compatibility Matrix
-
-|         k9s        | k8s client |
-| ------------------ | ---------- |
-|     >= v0.27.0     |   1.26.1   |
-| v0.26.7 - v0.26.6  |   1.25.3   |
-| v0.26.5 - v0.26.4  |   1.25.1   |
-| v0.26.3 - v0.26.1  |   1.24.3   |
-| v0.26.0 - v0.25.19 |   1.24.2   |
-| v0.25.18 - v0.25.3 |   1.22.3   |
-| v0.25.2 - v0.25.0  |   1.22.0   |
-|      <= v0.24      |   1.21.3   |
 
 ---
 
@@ -261,22 +251,22 @@ Binaries for Linux, Windows and Mac are available as tarballs in the [release pa
 
 ```shell
 # List current version
-k9s version
+ca9s version
 
 # To get info about K9s runtime (logs, configs, etc..)
-k9s info
+ca9s info
 
 # List all available CLI options
-k9s help
+ca9s help
 
 # To run K9s in a given namespace
-k9s -n mycoolns
+ca9s -n mycoolns
 
 # Start K9s in an existing KubeConfig context
-k9s --context coolCtx
+ca9s --context coolCtx
 
 # Start K9s in readonly mode - with all cluster modification commands disabled
-k9s --readonly
+ca9s --readonly
 ```
 
 ## Logs And Debug Logs
@@ -286,7 +276,7 @@ To view the logs and turn on debug mode, use the following commands:
 
 ```shell
 # Find out where the logs are stored
-k9s info
+ca9s info
 ```
 
 ```text
@@ -661,8 +651,8 @@ A plugin is defined as follows:
 * Command represents ad-hoc commands the plugin runs upon activation
 * Background specifies whether or not the command runs in the background
 * Args specifies the various arguments that should apply to the command above
-* OverwriteOutput boolean option allows plugin developers to provide custom messages on plugin stdout execution. See example in [#2644](https://github.com/derailed/k9s/pull/2644)
-* Dangerous boolean option enables disabling the plugin when read-only mode is set. See [#2604](https://github.com/derailed/k9s/issues/2604) 
+* OverwriteOutput boolean option allows plugin developers to provide custom messages on plugin stdout execution. See example in [#2644](https://github.com/CirrusByte42/ca9s/pull/2644)
+* Dangerous boolean option enables disabling the plugin when read-only mode is set. See [#2604](https://github.com/CirrusByte42/ca9s/issues/2604)
 
 K9s does provide additional environment variables for you to customize your plugins arguments. Currently, the available environment variables are as follows:
 
@@ -694,9 +684,9 @@ plugins:
   fred:
     shortCut: Ctrl-L
     override: false
-    overwriteOutput: false 
+    overwriteOutput: false
     confirm: false
-    dangerous: false 
+    dangerous: false
     description: Pod logs
     scopes:
     - pods
@@ -1053,7 +1043,7 @@ k9s:
 
 Without the contributions from these fine folks, this project would be a total dud!
 
-<a href="https://github.com/derailed/k9s/graphs/contributors">
+<a href="https://github.com/CirrusByte42/ca9s/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=derailed/k9s" />
 </a>
 

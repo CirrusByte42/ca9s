@@ -7,8 +7,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/xray"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/xray"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/apimachinery/pkg/runtime"
 )

@@ -81,16 +81,16 @@ By all means, this is a democracy and not a dictatorship! So... if you have bett
 
 ## Resolved Issues/Features
 
-* [Issue #972](https://github.com/derailed/k9s/issues/972) Default color is no longer transparent.
-* [Issue #933](https://github.com/derailed/k9s/issues/933) Unable to cordon node.
+* [Issue #972](https://github.com/CirrusByte42/ca9s/issues/972) Default color is no longer transparent.
+* [Issue #933](https://github.com/CirrusByte42/ca9s/issues/933) Unable to cordon node.
 
 ## Resolved PRs
 
-* [PR #982](https://github.com/derailed/k9s/pull/982) Fix typo
-* [PR #976](https://github.com/derailed/k9s/pull/976) Add OneDark color theme
-* [PR #975](https://github.com/derailed/k9s/pull/982) Handling non json lines as raw with red color
+* [PR #982](https://github.com/CirrusByte42/ca9s/pull/982) Fix typo
+* [PR #976](https://github.com/CirrusByte42/ca9s/pull/976) Add OneDark color theme
+* [PR #975](https://github.com/CirrusByte42/ca9s/pull/982) Handling non json lines as raw with red color
 * [PR #968](https://github.com/dserailed/k9s/pull/968) Disable filtering on help screen ... and broke the build ;)
-* [PR #960](https://github.com/derailed/k9s/pull/960) Handle empty port list in PortForward view
+* [PR #960](https://github.com/CirrusByte42/ca9s/pull/960) Handle empty port list in PortForward view
 
 ---
 

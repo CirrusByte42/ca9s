@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/client"
 	"k8s.io/apimachinery/pkg/api/meta"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	"k8s.io/client-go/restmapper"

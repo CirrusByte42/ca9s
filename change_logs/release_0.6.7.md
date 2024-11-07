@@ -26,12 +26,12 @@ Added two new columns to track cpu/memory utilization on metrics-server enabled 
 
 ## Resolved Bugs
 
-+ [Issue #192](https://github.com/derailed/k9s/issues/192)
-+ [Issue #190](https://github.com/derailed/k9s/issues/190)
-+ [Issue #189](https://github.com/derailed/k9s/issues/189)
-+ [Issue #185](https://github.com/derailed/k9s/issues/185)
-+ [Issue #171](https://github.com/derailed/k9s/issues/171)
-+ [Issue #155](https://github.com/derailed/k9s/issues/155)
++ [Issue #192](https://github.com/CirrusByte42/ca9s/issues/192)
++ [Issue #190](https://github.com/CirrusByte42/ca9s/issues/190)
++ [Issue #189](https://github.com/CirrusByte42/ca9s/issues/189)
++ [Issue #185](https://github.com/CirrusByte42/ca9s/issues/185)
++ [Issue #171](https://github.com/CirrusByte42/ca9s/issues/171)
++ [Issue #155](https://github.com/CirrusByte42/ca9s/issues/155)
 
 ---
 

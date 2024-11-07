@@ -9,8 +9,8 @@ import (
 	"io/fs"
 	"os"
 
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/config/json"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config/json"
 	"gopkg.in/yaml.v2"
 )
 

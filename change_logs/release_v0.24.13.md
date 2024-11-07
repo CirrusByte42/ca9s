@@ -28,12 +28,12 @@ Thank you!!
 
 ## Resolved Issues
 
-* [Issue #1182](https://github.com/derailed/k9s/issues/1169) Cronjob suspend does not work 0.24.12
-* [Issue #1167](https://github.com/derailed/k9s/issues/1167) Cronjob trigger busted with Feelings!
+* [Issue #1182](https://github.com/CirrusByte42/ca9s/issues/1169) Cronjob suspend does not work 0.24.12
+* [Issue #1167](https://github.com/CirrusByte42/ca9s/issues/1167) Cronjob trigger busted with Feelings!
 
 ## Resolved PRs
 
-* [PR #1141](https://github.com/derailed/k9s/pull/1141) Big Thanks to [Raul Cabello Martin](https://github.com/Raullllll) in making K9s better of all of us!!
+* [PR #1141](https://github.com/CirrusByte42/ca9s/pull/1141) Big Thanks to [Raul Cabello Martin](https://github.com/Raullllll) in making K9s better of all of us!!
 
 ---
 

@@ -10,13 +10,13 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
 	"k8s.io/client-go/tools/clientcmd/api"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/view"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/color"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/view"
 	"github.com/mattn/go-colorable"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
@@ -123,7 +123,7 @@ func run(cmd *cobra.Command, args []string) error {
 }
 
 func loadConfiguration() (*config.Config, error) {
-	log.Info().Msg("🐶 K9s starting up...")
+	log.Info().Msg("🐶 Ca9s starting up...")
 
 	k8sCfg := client.NewConfig(k8sFlags)
 	k9sCfg := config.NewConfig(k8sCfg)

@@ -16,10 +16,10 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1349](https://github.com/derailed/k9s/issues/1349) Support events.k8s.io Event v1
-* [Issue #1345](https://github.com/derailed/k9s/issues/1345) Access denied after context switch
-* [Issue #1344](https://github.com/derailed/k9s/issues/1344) Use "Port forward",but "invalid container port"
-* [Issue #1342](https://github.com/derailed/k9s/issues/1342) Log screen refreshed every second
+* [Issue #1349](https://github.com/CirrusByte42/ca9s/issues/1349) Support events.k8s.io Event v1
+* [Issue #1345](https://github.com/CirrusByte42/ca9s/issues/1345) Access denied after context switch
+* [Issue #1344](https://github.com/CirrusByte42/ca9s/issues/1344) Use "Port forward",but "invalid container port"
+* [Issue #1342](https://github.com/CirrusByte42/ca9s/issues/1342) Log screen refreshed every second
 
 ---
 

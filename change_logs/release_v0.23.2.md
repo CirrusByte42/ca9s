@@ -24,9 +24,9 @@ In the last drop, we've introduces reverse filters to filter out resources from 
 
 ## Resolved Issues/Features
 
-* [Issue #906](https://github.com/derailed/k9s/issues/906) Print resources in pod view. With Feelings. Thanks Claudio!
-* [Issue #889](https://github.com/derailed/k9s/issues/889) Disable readOnly config
-* [Issue #564](https://github.com/derailed/k9s/issues/564) Invert filter mode on logs
+* [Issue #906](https://github.com/CirrusByte42/ca9s/issues/906) Print resources in pod view. With Feelings. Thanks Claudio!
+* [Issue #889](https://github.com/CirrusByte42/ca9s/issues/889) Disable readOnly config
+* [Issue #564](https://github.com/CirrusByte42/ca9s/issues/564) Invert filter mode on logs
 
 ## Resolved PRs
 

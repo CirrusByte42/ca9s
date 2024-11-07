@@ -42,10 +42,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2459](https://github.com/derailed/k9s/issues/2459) No permission to see deployments/statefulsets even though I have them
-* [#2458](https://github.com/derailed/k9s/issues/2458) panic on run without current context
-* [#2454](https://github.com/derailed/k9s/issues/2454) Invoking K9s ends in panic question
-* [#2435](https://github.com/derailed/k9s/issues/2435) "yaml: line 15: could not find expected ':'" error bug question (May be??)
+* [#2459](https://github.com/CirrusByte42/ca9s/issues/2459) No permission to see deployments/statefulsets even though I have them
+* [#2458](https://github.com/CirrusByte42/ca9s/issues/2458) panic on run without current context
+* [#2454](https://github.com/CirrusByte42/ca9s/issues/2454) Invoking K9s ends in panic question
+* [#2435](https://github.com/CirrusByte42/ca9s/issues/2435) "yaml: line 15: could not find expected ':'" error bug question (May be??)
 
 ---
 

@@ -43,12 +43,12 @@ So if your terminal does not support emoji's we're still cool...
 
 ## Resolved Bugs/Features
 
-* [Issue #505](https://github.com/derailed/k9s/issues/505)
-* [Issue #504](https://github.com/derailed/k9s/issues/504)
-* [Issue #503](https://github.com/derailed/k9s/issues/503)
-* [Issue #501](https://github.com/derailed/k9s/issues/501)
-* [Issue #499](https://github.com/derailed/k9s/issues/499)
-* [Issue #493](https://github.com/derailed/k9s/issues/493)
+* [Issue #505](https://github.com/CirrusByte42/ca9s/issues/505)
+* [Issue #504](https://github.com/CirrusByte42/ca9s/issues/504)
+* [Issue #503](https://github.com/CirrusByte42/ca9s/issues/503)
+* [Issue #501](https://github.com/CirrusByte42/ca9s/issues/501)
+* [Issue #499](https://github.com/CirrusByte42/ca9s/issues/499)
+* [Issue #493](https://github.com/CirrusByte42/ca9s/issues/493)
 
 ---
 

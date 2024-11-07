@@ -37,10 +37,10 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #604](https://github.com/derailed/k9s/issues/604)
-- [Issue #601](https://github.com/derailed/k9s/issues/601) Thank you [Christian Vent](https://github.com/christian-vent)
-- [Issue #598](https://github.com/derailed/k9s/issues/598)  `Ctrl-l` will now trigger the benchmarking toggle!
-- [Issue #593](https://github.com/derailed/k9s/issues/593)
+- [Issue #604](https://github.com/CirrusByte42/ca9s/issues/604)
+- [Issue #601](https://github.com/CirrusByte42/ca9s/issues/601) Thank you [Christian Vent](https://github.com/christian-vent)
+- [Issue #598](https://github.com/CirrusByte42/ca9s/issues/598)  `Ctrl-l` will now trigger the benchmarking toggle!
+- [Issue #593](https://github.com/CirrusByte42/ca9s/issues/593)
 
 ---
 

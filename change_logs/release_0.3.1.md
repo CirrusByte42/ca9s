@@ -29,6 +29,6 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-+ [Issue #133](https://github.com/derailed/k9s/issues/133)
-+ [Issue #132](https://github.com/derailed/k9s/issues/132)
-+ [Issue #129](https://github.com/derailed/k9s/issues/129) The easiest bug fix to date ;)
++ [Issue #133](https://github.com/CirrusByte42/ca9s/issues/133)
++ [Issue #132](https://github.com/CirrusByte42/ca9s/issues/132)
++ [Issue #129](https://github.com/CirrusByte42/ca9s/issues/129) The easiest bug fix to date ;)

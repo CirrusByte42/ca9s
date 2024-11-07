@@ -35,9 +35,9 @@ A small change here based on [Benjamin](https://github.com/binarycoded) excellen
 
 ## Resolved Bugs/Features
 
-* [Issue #507](https://github.com/derailed/k9s/issues/507) ??May be??
-* [PR #489](https://github.com/derailed/k9s/issues/489) ATTA Boy! [Benjamin](https://github.com/binarycoded)
-* [PR #491](https://github.com/derailed/k9s/issues/491) Big Thanks! [Bjoern](https://github.com/bjoernmichaelsen)
+* [Issue #507](https://github.com/CirrusByte42/ca9s/issues/507) ??May be??
+* [PR #489](https://github.com/CirrusByte42/ca9s/issues/489) ATTA Boy! [Benjamin](https://github.com/binarycoded)
+* [PR #491](https://github.com/CirrusByte42/ca9s/issues/491) Big Thanks! [Bjoern](https://github.com/bjoernmichaelsen)
 
 ---
 

@@ -14,13 +14,13 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-1. [Feature #131](https://github.com/derailed/k9s/issues/131)
+1. [Feature #131](https://github.com/CirrusByte42/ca9s/issues/131)
    Preliminary support for snapcraft builds ie read trying this out...
-2. [Feature #118](https://github.com/derailed/k9s/issues/118) Add arm 32/64 bit builds.
+2. [Feature #118](https://github.com/CirrusByte42/ca9s/issues/118) Add arm 32/64 bit builds.
    NOTE: will need help vetting this out as my RPi cluster is currently down.
 
 ---
 
 ## Resolved Bugs
 
-+ [Feature #132](https://github.com/derailed/k9s/issues/132). With feelings!
++ [Feature #132](https://github.com/CirrusByte42/ca9s/issues/132). With feelings!

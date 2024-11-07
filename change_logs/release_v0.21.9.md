@@ -31,8 +31,8 @@ Contrarily to popular belief, OSS is not free! We've now reached ~9k stars and 3
 
 ## Resolved Issues/Features
 
-* [Issue #871](https://github.com/derailed/k9s/issues/871) K9s memory leak when shell that launched k9s is terminated (With feeling!)
-* [Issue #849](https://github.com/derailed/k9s/issues/849) Xray highlight color (with feeling!)
+* [Issue #871](https://github.com/CirrusByte42/ca9s/issues/871) K9s memory leak when shell that launched k9s is terminated (With feeling!)
+* [Issue #849](https://github.com/CirrusByte42/ca9s/issues/849) Xray highlight color (with feeling!)
 
 ## Resolved PRs
 

@@ -32,12 +32,12 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1063](https://github.com/derailed/k9s/issues/1063) Weird colors on windows (Don't do windows so please help verify!)
-* [Issue #1061](https://github.com/derailed/k9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
+* [Issue #1063](https://github.com/CirrusByte42/ca9s/issues/1063) Weird colors on windows (Don't do windows so please help verify!)
+* [Issue #1061](https://github.com/CirrusByte42/ca9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
 
 ## Resolved PRs
 
-* [PR #1062](https://github.com/derailed/k9s/pull/1062) Add auto-refresh toggle for yaml and describe views. Now defaults to no refresh!
+* [PR #1062](https://github.com/CirrusByte42/ca9s/pull/1062) Add auto-refresh toggle for yaml and describe views. Now defaults to no refresh!
 
 ---
 

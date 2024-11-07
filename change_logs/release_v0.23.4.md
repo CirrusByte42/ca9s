@@ -18,8 +18,8 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #920](https://github.com/derailed/k9s/issues/920) Timestamp stopped working
-* [Issue #663](https://github.com/derailed/k9s/issues/663) Perf issues in v0.23.X - Better??
+* [Issue #920](https://github.com/CirrusByte42/ca9s/issues/920) Timestamp stopped working
+* [Issue #663](https://github.com/CirrusByte42/ca9s/issues/663) Perf issues in v0.23.X - Better??
 
 ## Resolved PRs
 

@@ -22,8 +22,8 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #649](https://github.com/derailed/k9s/issues/649)
-* [PR #638](https://github.com/derailed/k9s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
+* [Issue #649](https://github.com/CirrusByte42/ca9s/issues/649)
+* [PR #638](https://github.com/CirrusByte42/ca9s/pull/638) Thank you! [Shang Yuanchun](https://github.com/ideal)
 
 ---
 

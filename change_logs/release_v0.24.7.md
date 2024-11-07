@@ -31,9 +31,9 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1067](https://github.com/derailed/k9s/issues/1067) Increase HPA target column display
-* [Issue #1061](https://github.com/derailed/k9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
-* [Issue #1060](https://github.com/derailed/k9s/issues/1060) Exception when setting container image
+* [Issue #1067](https://github.com/CirrusByte42/ca9s/issues/1067) Increase HPA target column display
+* [Issue #1061](https://github.com/CirrusByte42/ca9s/issues/1061) Container shell Windows (Don't do windows so please help verify!)
+* [Issue #1060](https://github.com/CirrusByte42/ca9s/issues/1060) Exception when setting container image
 
 ## Resolved PRs
 

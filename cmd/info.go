@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/derailed/k9s/internal/color"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/color"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"

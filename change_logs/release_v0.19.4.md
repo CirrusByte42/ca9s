@@ -23,13 +23,13 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #692](https://github.com/derailed/k9s/issues/692)
-* [Issue #689](https://github.com/derailed/k9s/issues/689)
-* [Issue #685](https://github.com/derailed/k9s/issues/685)
-* [Issue #684](https://github.com/derailed/k9s/issues/684)
-* [Issue #670](https://github.com/derailed/k9s/issues/670)
-* [PR #688](https://github.com/derailed/k9s/pull/688) All credits goes to [David Němec](https://github.com/davidnemec)!!
-* [PR #676](https://github.com/derailed/k9s/pull/676) Big Thanks to [Agrim Asthana](https://github.com/agrimrules)!
+* [Issue #692](https://github.com/CirrusByte42/ca9s/issues/692)
+* [Issue #689](https://github.com/CirrusByte42/ca9s/issues/689)
+* [Issue #685](https://github.com/CirrusByte42/ca9s/issues/685)
+* [Issue #684](https://github.com/CirrusByte42/ca9s/issues/684)
+* [Issue #670](https://github.com/CirrusByte42/ca9s/issues/670)
+* [PR #688](https://github.com/CirrusByte42/ca9s/pull/688) All credits goes to [David Němec](https://github.com/davidnemec)!!
+* [PR #676](https://github.com/CirrusByte42/ca9s/pull/676) Big Thanks to [Agrim Asthana](https://github.com/agrimrules)!
 
 ---
 

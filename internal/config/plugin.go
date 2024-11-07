@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/config/json"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config/json"
 
 	"github.com/adrg/xdg"
 	"gopkg.in/yaml.v2"

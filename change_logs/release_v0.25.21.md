@@ -18,15 +18,15 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1634](https://github.com/derailed/k9s/issues/1634) Namespace view all has the age field in strange format
-* [Issue #1633](https://github.com/derailed/k9s/issues/1633) Nodes sort by age has wrong order
+* [Issue #1634](https://github.com/CirrusByte42/ca9s/issues/1634) Namespace view all has the age field in strange format
+* [Issue #1633](https://github.com/CirrusByte42/ca9s/issues/1633) Nodes sort by age has wrong order
 
 ## Resolved PR
 
-* [PR #1632](https://github.com/derailed/k9s/pull/1632) Fix delete dialog dropdown styling
-* [PR #1629](https://github.com/derailed/k9s/pull/1629) Fix reference to base image in dockerfile
-* [PR #1627](https://github.com/derailed/k9s/pull/1627) Fix TestToAge
-* [PR #1624](https://github.com/derailed/k9s/pull/1624) Change makefile version
+* [PR #1632](https://github.com/CirrusByte42/ca9s/pull/1632) Fix delete dialog dropdown styling
+* [PR #1629](https://github.com/CirrusByte42/ca9s/pull/1629) Fix reference to base image in dockerfile
+* [PR #1627](https://github.com/CirrusByte42/ca9s/pull/1627) Fix TestToAge
+* [PR #1624](https://github.com/CirrusByte42/ca9s/pull/1624) Change makefile version
 
 ---
 

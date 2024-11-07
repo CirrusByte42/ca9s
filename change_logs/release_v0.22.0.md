@@ -37,13 +37,13 @@ k9s:
 
 ## Resolved Issues/Features
 
-* [Issue #874](https://github.com/derailed/k9s/issues/874) Latest version broke selecting text by mouse
+* [Issue #874](https://github.com/CirrusByte42/ca9s/issues/874) Latest version broke selecting text by mouse
 
 ## Resolved PRs
 
-* [PR #877](https://github.com/derailed/k9s/pull/877) Change character used for X in RBAC view. Thank you! [Torjus](https://github.com/torjue)
-* [PR #876](https://github.com/derailed/k9s/pull/876) Migrate to new sortorder import path. Big thanks to [fbbommel](https://github.com/fvbommel)
-* [PR #873](https://github.com/derailed/k9s/pull/873) Fix default logger config, same as README. Thank you! [darklore](https://github.com/darklore)
+* [PR #877](https://github.com/CirrusByte42/ca9s/pull/877) Change character used for X in RBAC view. Thank you! [Torjus](https://github.com/torjue)
+* [PR #876](https://github.com/CirrusByte42/ca9s/pull/876) Migrate to new sortorder import path. Big thanks to [fbbommel](https://github.com/fvbommel)
+* [PR #873](https://github.com/CirrusByte42/ca9s/pull/873) Fix default logger config, same as README. Thank you! [darklore](https://github.com/darklore)
 
 ---
 

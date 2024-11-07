@@ -33,21 +33,21 @@ Thank you!!
 
 ## Resolved Issues
 
-* [Issue #1361](https://github.com/derailed/k9s/issues/1361) Pulses not displaying graphs
-* [Issue #1358](https://github.com/derailed/k9s/issues/1358) Namespace list is empty
-* [Issue #1357](https://github.com/derailed/k9s/issues/1357) Benchmarks doesn't work on windows
-* [Issue #1355](https://github.com/derailed/k9s/issues/1355) Trace log level does not exists
-* [Issue #1345](https://github.com/derailed/k9s/issues/1345) Access denied after context switch
+* [Issue #1361](https://github.com/CirrusByte42/ca9s/issues/1361) Pulses not displaying graphs
+* [Issue #1358](https://github.com/CirrusByte42/ca9s/issues/1358) Namespace list is empty
+* [Issue #1357](https://github.com/CirrusByte42/ca9s/issues/1357) Benchmarks doesn't work on windows
+* [Issue #1355](https://github.com/CirrusByte42/ca9s/issues/1355) Trace log level does not exists
+* [Issue #1345](https://github.com/CirrusByte42/ca9s/issues/1345) Access denied after context switch
 
 ---
 
 ## PRs
 
-* [PR #1363](https://github.com/derailed/k9s/pull/1363) Add rose-pine skin.
+* [PR #1363](https://github.com/CirrusByte42/ca9s/pull/1363) Add rose-pine skin.
   [Sergio Soria](https://github.com/sasoria)
-* [PR #1356](https://github.com/derailed/k9s/pull/1356) Add flux trace shortcut to flux plugin.
+* [PR #1356](https://github.com/CirrusByte42/ca9s/pull/1356) Add flux trace shortcut to flux plugin.
   [Guillaume Berche](https://github.com/gberche-orange)
-* [PR #1321](https://github.com/derailed/k9s/pull/1321) Add customizable dump directory property.
+* [PR #1321](https://github.com/CirrusByte42/ca9s/pull/1321) Add customizable dump directory property.
   [Vlasov Artem](https://github.com/VlasovArtem)
 
 

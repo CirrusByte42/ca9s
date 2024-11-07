@@ -4,8 +4,8 @@
 package view
 
 import (
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 )
 

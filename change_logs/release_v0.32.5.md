@@ -33,10 +33,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2734](https://github.com/derailed/k9s/issues/2734) Incorrect pod containers displayed when using custom resource columns
-* [#2733](https://github.com/derailed/k9s/issues/2733) Toggle Wide and Toggle Faults broken for PDB view
-* [#2656](https://github.com/derailed/k9s/issues/2656) nil pointer dereference when switching contexts
-* [#2617](https://github.com/derailed/k9s/issues/2617) Plugin command execution output
+* [#2734](https://github.com/CirrusByte42/ca9s/issues/2734) Incorrect pod containers displayed when using custom resource columns
+* [#2733](https://github.com/CirrusByte42/ca9s/issues/2733) Toggle Wide and Toggle Faults broken for PDB view
+* [#2656](https://github.com/CirrusByte42/ca9s/issues/2656) nil pointer dereference when switching contexts
+* [#2617](https://github.com/CirrusByte42/ca9s/issues/2617) Plugin command execution output
 
 ---
 
@@ -44,20 +44,20 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2736](https://github.com/derailed/k9s/pull/2736) fix view sorting being reset
-* [#2732](https://github.com/derailed/k9s/pull/2732) use policy/v1 instead of policy/v1beta1
-* [#2728](https://github.com/derailed/k9s/pull/2728) feat: add pool col to node view
-* [#2718](https://github.com/derailed/k9s/pull/2718) fix: jump to namespaceless owner reference
-* [#2711](https://github.com/derailed/k9s/pull/2711) Add plugins for argo-rollouts
-* [#2700](https://github.com/derailed/k9s/pull/2700) feat: allow jumping to the owner of the resource
-* [#2699](https://github.com/derailed/k9s/pull/2699) Added cert-manager and openssl plugins
-* [#2711](https://github.com/derailed/k9s/pull/2711) Add plugins for argo-rollouts
-* [#2698](https://github.com/derailed/k9s/pull/2698) fix: job color based on failures (#2686)
-* [#2685](https://github.com/derailed/k9s/pull/2685) feat: support cluster and cmp view
-* [#2678](https://github.com/derailed/k9s/pull/2678) fix: do not hard-code path to kubectl in jq plugin
-* [#2676](https://github.com/derailed/k9s/pull/2676) Add kanagawa skin
-* [#2666](https://github.com/derailed/k9s/pull/2666) save config when closing k9s with ctrl-c
-* [#2644](https://github.com/derailed/k9s/pull/2644) Allow overwriting plugin output with command's stdout
+* [#2736](https://github.com/CirrusByte42/ca9s/pull/2736) fix view sorting being reset
+* [#2732](https://github.com/CirrusByte42/ca9s/pull/2732) use policy/v1 instead of policy/v1beta1
+* [#2728](https://github.com/CirrusByte42/ca9s/pull/2728) feat: add pool col to node view
+* [#2718](https://github.com/CirrusByte42/ca9s/pull/2718) fix: jump to namespaceless owner reference
+* [#2711](https://github.com/CirrusByte42/ca9s/pull/2711) Add plugins for argo-rollouts
+* [#2700](https://github.com/CirrusByte42/ca9s/pull/2700) feat: allow jumping to the owner of the resource
+* [#2699](https://github.com/CirrusByte42/ca9s/pull/2699) Added cert-manager and openssl plugins
+* [#2711](https://github.com/CirrusByte42/ca9s/pull/2711) Add plugins for argo-rollouts
+* [#2698](https://github.com/CirrusByte42/ca9s/pull/2698) fix: job color based on failures (#2686)
+* [#2685](https://github.com/CirrusByte42/ca9s/pull/2685) feat: support cluster and cmp view
+* [#2678](https://github.com/CirrusByte42/ca9s/pull/2678) fix: do not hard-code path to kubectl in jq plugin
+* [#2676](https://github.com/CirrusByte42/ca9s/pull/2676) Add kanagawa skin
+* [#2666](https://github.com/CirrusByte42/ca9s/pull/2666) save config when closing k9s with ctrl-c
+* [#2644](https://github.com/CirrusByte42/ca9s/pull/2644) Allow overwriting plugin output with command's stdout
 
 ---
 

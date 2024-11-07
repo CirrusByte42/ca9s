@@ -48,9 +48,9 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #2072](https://github.com/derailed/k9s/issues/2072) Triggered Job from cronjob is missing annotations
-* [Issue #2024](https://github.com/derailed/k9s/issues/2024) Allow customization of log indicators with skin theme
-* [Issue #1971](https://github.com/derailed/k9s/issues/1971) Zip binary for windows
+* [Issue #2072](https://github.com/CirrusByte42/ca9s/issues/2072) Triggered Job from cronjob is missing annotations
+* [Issue #2024](https://github.com/CirrusByte42/ca9s/issues/2024) Allow customization of log indicators with skin theme
+* [Issue #1971](https://github.com/CirrusByte42/ca9s/issues/1971) Zip binary for windows
 
 ---
 
@@ -58,16 +58,16 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 Please give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [PR #2073](https://github.com/derailed/k9s/pull/2073) Fix for missing Job annotations created from Cronjob
-* [PR #2069](https://github.com/derailed/k9s/pull/2069) Unify all go version to 1.20
-* [PR #2067](https://github.com/derailed/k9s/pull/2067) Create narsingh skin
-* [PR #2054](https://github.com/derailed/k9s/pull/2054) Update setup-go action, with caching
-* [PR #2045](https://github.com/derailed/k9s/pull/2045) Fix: (views) use saved context view when switching
-* [PR #2041](https://github.com/derailed/k9s/pull/2041) Feat: allow customization of log indicator toggles
-* [PR #2030](https://github.com/derailed/k9s/pull/2030) Updated monokai skin with help styles, and more monokai appropriate colors
-* [PR #2027](https://github.com/derailed/k9s/pull/2027) Roles are rendered using same colorer function from skin
-* [PR #2045](https://github.com/derailed/k9s/pull/2045) Fix: (views) use saved context view when switching\
-* [PR #2011](https://github.com/derailed/k9s/pull/2011) Fix #2007: Remove debug command
+* [PR #2073](https://github.com/CirrusByte42/ca9s/pull/2073) Fix for missing Job annotations created from Cronjob
+* [PR #2069](https://github.com/CirrusByte42/ca9s/pull/2069) Unify all go version to 1.20
+* [PR #2067](https://github.com/CirrusByte42/ca9s/pull/2067) Create narsingh skin
+* [PR #2054](https://github.com/CirrusByte42/ca9s/pull/2054) Update setup-go action, with caching
+* [PR #2045](https://github.com/CirrusByte42/ca9s/pull/2045) Fix: (views) use saved context view when switching
+* [PR #2041](https://github.com/CirrusByte42/ca9s/pull/2041) Feat: allow customization of log indicator toggles
+* [PR #2030](https://github.com/CirrusByte42/ca9s/pull/2030) Updated monokai skin with help styles, and more monokai appropriate colors
+* [PR #2027](https://github.com/CirrusByte42/ca9s/pull/2027) Roles are rendered using same colorer function from skin
+* [PR #2045](https://github.com/CirrusByte42/ca9s/pull/2045) Fix: (views) use saved context view when switching\
+* [PR #2011](https://github.com/CirrusByte42/ca9s/pull/2011) Fix #2007: Remove debug command
 
 ---
 

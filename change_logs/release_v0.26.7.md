@@ -31,13 +31,13 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1805](https://github.com/derailed/k9s/issues/1805) CronJobs: allow sorting by LAST_SCHEDULE
+* [Issue #1805](https://github.com/CirrusByte42/ca9s/issues/1805) CronJobs: allow sorting by LAST_SCHEDULE
 
 ## Contributed PRs (Thank you!!)
 
-* [PR #1804](https://github.com/derailed/k9s/pull/1804) Allow multiple port forwards
-* [PR #1797](https://github.com/derailed/k9s/pull/1797) README - use go install
-* [PR #1793](https://github.com/derailed/k9s/pull/1793) Update CronJob version to v1
+* [PR #1804](https://github.com/CirrusByte42/ca9s/pull/1804) Allow multiple port forwards
+* [PR #1797](https://github.com/CirrusByte42/ca9s/pull/1797) README - use go install
+* [PR #1793](https://github.com/CirrusByte42/ca9s/pull/1793) Update CronJob version to v1
 
 ---
 

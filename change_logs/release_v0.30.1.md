@@ -38,11 +38,11 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2368](https://github.com/derailed/k9s/issues/2368) Pod CPU and MEM columns are empty in 0.30.0
-* [#2367](https://github.com/derailed/k9s/issues/2367) k9s 0.30.0 issue loading plugins
-* [#2366](https://github.com/derailed/k9s/issues/2366) List pods of deployment is now impossible
-* [#2364](https://github.com/derailed/k9s/issues/2364) k9s 0.30.0 fields and values missed in action in the "namespace view"
-* [#2363](https://github.com/derailed/k9s/issues/2363) Default 0.30.0 default skin on macOS is no good
+* [#2368](https://github.com/CirrusByte42/ca9s/issues/2368) Pod CPU and MEM columns are empty in 0.30.0
+* [#2367](https://github.com/CirrusByte42/ca9s/issues/2367) k9s 0.30.0 issue loading plugins
+* [#2366](https://github.com/CirrusByte42/ca9s/issues/2366) List pods of deployment is now impossible
+* [#2364](https://github.com/CirrusByte42/ca9s/issues/2364) k9s 0.30.0 fields and values missed in action in the "namespace view"
+* [#2363](https://github.com/CirrusByte42/ca9s/issues/2363) Default 0.30.0 default skin on macOS is no good
 
 ---
 
@@ -50,7 +50,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2360](https://github.com/derailed/k9s/pull/2360) adding cancelable launch prompts to NodeShell
+* [#2360](https://github.com/CirrusByte42/ca9s/pull/2360) adding cancelable launch prompts to NodeShell
 
 ---
 

@@ -41,9 +41,9 @@ plugin:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #616](https://github.com/derailed/k9s/issues/616)
-- [Issue #615](https://github.com/derailed/k9s/issues/615)
-- [Issue #614](https://github.com/derailed/k9s/issues/614)
+- [Issue #616](https://github.com/CirrusByte42/ca9s/issues/616)
+- [Issue #615](https://github.com/CirrusByte42/ca9s/issues/615)
+- [Issue #614](https://github.com/CirrusByte42/ca9s/issues/614)
 
 ---
 

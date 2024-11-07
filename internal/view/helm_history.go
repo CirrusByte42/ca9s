@@ -8,12 +8,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render/helm"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/render/helm"
+	"github.com/CirrusByte42/ca9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/ui/dialog"
 	"github.com/derailed/tcell/v2"
 )
 

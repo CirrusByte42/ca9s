@@ -10,8 +10,8 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
 	"github.com/stretchr/testify/assert"
 )
 

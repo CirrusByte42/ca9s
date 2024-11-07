@@ -53,22 +53,22 @@ Added ability to exchange files from your local machine to a pod or from a pod t
 
 ## Resolved Issues
 
-* [Issue #2249](https://github.com/derailed/k9s/issues/2249) Sort on the capacity column should consider Gi and Mb also
-* [Issue #2225](https://github.com/derailed/k9s/issues/2225) View logs of all pods of a given deployment
-* [Issue #2195](https://github.com/derailed/k9s/issues/2195) Some pod logs are not displayed. But I can display it when I use the command
+* [Issue #2249](https://github.com/CirrusByte42/ca9s/issues/2249) Sort on the capacity column should consider Gi and Mb also
+* [Issue #2225](https://github.com/CirrusByte42/ca9s/issues/2225) View logs of all pods of a given deployment
+* [Issue #2195](https://github.com/CirrusByte42/ca9s/issues/2195) Some pod logs are not displayed. But I can display it when I use the command
 
-* [Issue #2194](https://github.com/derailed/k9s/issues/2194) 0.27.4 broke custom sort orders via views.yml
-* [Issue #2185](https://github.com/derailed/k9s/issues/2185) No binaries for Linux_x86_64
-* [Issue #2169](https://github.com/derailed/k9s/issues/2169) Add namespace name in ServiceAccount view with RoleBinding
-* [Issue #2152](https://github.com/derailed/k9s/issues/2152) Latest opened namespace not being saved between k9s sessions
-* [Issue #2131](https://github.com/derailed/k9s/issues/2131) deployments are not showing up, whereas kubectl gives a list
-* [Issue #2130](https://github.com/derailed/k9s/issues/2130) Pending pods show 0/0 Ready instead of 0/x Ready
-* [Issue #2128](https://github.com/derailed/k9s/issues/2128) k9s command not found after snap install
-* [Issue #2121](https://github.com/derailed/k9s/issues/2121) colors for crds
-* [Issue #2120](https://github.com/derailed/k9s/issues/2120) kustomize deletion not working as expected
-* [Issue #2106](https://github.com/derailed/k9s/issues/2106) k9s delete behaves differently with kubectl
-* [Issue #2085](https://github.com/derailed/k9s/issues/2085) When specifying the context command via the -c flag, selecting a cluster always returns to the context view
-* [Issue #658](https://github.com/derailed/k9s/issues/658) Feature request: Easy way to copy/download files from a pod/pv to your local PC
+* [Issue #2194](https://github.com/CirrusByte42/ca9s/issues/2194) 0.27.4 broke custom sort orders via views.yml
+* [Issue #2185](https://github.com/CirrusByte42/ca9s/issues/2185) No binaries for Linux_x86_64
+* [Issue #2169](https://github.com/CirrusByte42/ca9s/issues/2169) Add namespace name in ServiceAccount view with RoleBinding
+* [Issue #2152](https://github.com/CirrusByte42/ca9s/issues/2152) Latest opened namespace not being saved between k9s sessions
+* [Issue #2131](https://github.com/CirrusByte42/ca9s/issues/2131) deployments are not showing up, whereas kubectl gives a list
+* [Issue #2130](https://github.com/CirrusByte42/ca9s/issues/2130) Pending pods show 0/0 Ready instead of 0/x Ready
+* [Issue #2128](https://github.com/CirrusByte42/ca9s/issues/2128) k9s command not found after snap install
+* [Issue #2121](https://github.com/CirrusByte42/ca9s/issues/2121) colors for crds
+* [Issue #2120](https://github.com/CirrusByte42/ca9s/issues/2120) kustomize deletion not working as expected
+* [Issue #2106](https://github.com/CirrusByte42/ca9s/issues/2106) k9s delete behaves differently with kubectl
+* [Issue #2085](https://github.com/CirrusByte42/ca9s/issues/2085) When specifying the context command via the -c flag, selecting a cluster always returns to the context view
+* [Issue #658](https://github.com/CirrusByte42/ca9s/issues/658) Feature request: Easy way to copy/download files from a pod/pv to your local PC
 
 ---
 
@@ -76,37 +76,37 @@ Added ability to exchange files from your local machine to a pod or from a pod t
 
 Please give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [PR #2258](https://github.com/derailed/k9s/pull/2258) fix fsnotify watcher not fully working
-* [PR #2253](https://github.com/derailed/k9s/pull/2253) fix manual sorting not working when sortColumn is configured
-* [PR #2252](https://github.com/derailed/k9s/pull/2252) consider units when sorting capacity of pv and pvc
-* [PR #2243](https://github.com/derailed/k9s/pull/2243) fix(typo): pdb header typo
-* [PR #2239](https://github.com/derailed/k9s/pull/2239) fix: honor defaults from drain dialog in request
-* [PR #2235](https://github.com/derailed/k9s/pull/2235) docs: add plugin.yml JSON schema
-* [PR #2229](https://github.com/derailed/k9s/pull/2229) fix(log): clear bold log format after timestamp
-* [PR #2188](https://github.com/derailed/k9s/pull/2188) Alias qa to quit
-* [PR #2180](https://github.com/derailed/k9s/pull/2180) feat: Added support for arm in dockerfile
-* [PR #2179](https://github.com/derailed/k9s/pull/2179) Focus command bar if active on startup
-* [PR #2170](https://github.com/derailed/k9s/pull/2170) Add namespace for rolebinding on a clusterrole
-* [PR #2161](https://github.com/derailed/k9s/pull/2161) Only apply keyConv to mnemonic in menus
-* [PR #2158](https://github.com/derailed/k9s/pull/2158) Show the default container as the first entry
-* [PR #2153](https://github.com/derailed/k9s/pull/2153) Changed checksums extension to checksums.sha256
-* [PR #2158](https://github.com/derailed/k9s/pull/2158) Show the default container as the first entry
-* [PR #2151](https://github.com/derailed/k9s/pull/2151) chore: pkg imported more than once
-* [PR #2147](https://github.com/derailed/k9s/pull/2147) feat: plugin for adding an ephemeral debug container
-* [PR #2141](https://github.com/derailed/k9s/pull/2141) Update plugin flux.yml with shortcuts for helm repo and oci repos
-* [PR #2137](https://github.com/derailed/k9s/pull/2137) Correctly display the numbers in the Ready column of the pods view
-* [PR #2136](https://github.com/derailed/k9s/pull/2136) Prompt window uses border styles
-* [PR #2134](https://github.com/derailed/k9s/pull/2134) Remove unsupported key binding on users view
-* [PR #2124](https://github.com/derailed/k9s/pull/2124) fix: add correct flags when deleting resources from Dir
-* [PR #2119](https://github.com/derailed/k9s/pull/2119) feat: add indicator to title if toast is toggled
-* [PR #2117](https://github.com/derailed/k9s/pull/2117) Add instruction how to install k9s through winget
-* [PR #2112](https://github.com/derailed/k9s/pull/2112) Fix for styles
-* [PR #2105](https://github.com/derailed/k9s/pull/2105) Fix the wrong/redundant icon in the prompt bar
-* [PR #2103](https://github.com/derailed/k9s/pull/2103) Update carvel.yml to include contexts
-* [PR #2096](https://github.com/derailed/k9s/pull/2096) fix: (config) only respect the --command flag once
-* [PR #2091](https://github.com/derailed/k9s/pull/2091) Add get-all plugin specific for namespace view
-* [PR #2089](https://github.com/derailed/k9s/pull/2089) Resources are rendered using skin.yaml colors
-* [PR #2082](https://github.com/derailed/k9s/pull/2082) Fix typo introduced in #2045
+* [PR #2258](https://github.com/CirrusByte42/ca9s/pull/2258) fix fsnotify watcher not fully working
+* [PR #2253](https://github.com/CirrusByte42/ca9s/pull/2253) fix manual sorting not working when sortColumn is configured
+* [PR #2252](https://github.com/CirrusByte42/ca9s/pull/2252) consider units when sorting capacity of pv and pvc
+* [PR #2243](https://github.com/CirrusByte42/ca9s/pull/2243) fix(typo): pdb header typo
+* [PR #2239](https://github.com/CirrusByte42/ca9s/pull/2239) fix: honor defaults from drain dialog in request
+* [PR #2235](https://github.com/CirrusByte42/ca9s/pull/2235) docs: add plugin.yml JSON schema
+* [PR #2229](https://github.com/CirrusByte42/ca9s/pull/2229) fix(log): clear bold log format after timestamp
+* [PR #2188](https://github.com/CirrusByte42/ca9s/pull/2188) Alias qa to quit
+* [PR #2180](https://github.com/CirrusByte42/ca9s/pull/2180) feat: Added support for arm in dockerfile
+* [PR #2179](https://github.com/CirrusByte42/ca9s/pull/2179) Focus command bar if active on startup
+* [PR #2170](https://github.com/CirrusByte42/ca9s/pull/2170) Add namespace for rolebinding on a clusterrole
+* [PR #2161](https://github.com/CirrusByte42/ca9s/pull/2161) Only apply keyConv to mnemonic in menus
+* [PR #2158](https://github.com/CirrusByte42/ca9s/pull/2158) Show the default container as the first entry
+* [PR #2153](https://github.com/CirrusByte42/ca9s/pull/2153) Changed checksums extension to checksums.sha256
+* [PR #2158](https://github.com/CirrusByte42/ca9s/pull/2158) Show the default container as the first entry
+* [PR #2151](https://github.com/CirrusByte42/ca9s/pull/2151) chore: pkg imported more than once
+* [PR #2147](https://github.com/CirrusByte42/ca9s/pull/2147) feat: plugin for adding an ephemeral debug container
+* [PR #2141](https://github.com/CirrusByte42/ca9s/pull/2141) Update plugin flux.yml with shortcuts for helm repo and oci repos
+* [PR #2137](https://github.com/CirrusByte42/ca9s/pull/2137) Correctly display the numbers in the Ready column of the pods view
+* [PR #2136](https://github.com/CirrusByte42/ca9s/pull/2136) Prompt window uses border styles
+* [PR #2134](https://github.com/CirrusByte42/ca9s/pull/2134) Remove unsupported key binding on users view
+* [PR #2124](https://github.com/CirrusByte42/ca9s/pull/2124) fix: add correct flags when deleting resources from Dir
+* [PR #2119](https://github.com/CirrusByte42/ca9s/pull/2119) feat: add indicator to title if toast is toggled
+* [PR #2117](https://github.com/CirrusByte42/ca9s/pull/2117) Add instruction how to install k9s through winget
+* [PR #2112](https://github.com/CirrusByte42/ca9s/pull/2112) Fix for styles
+* [PR #2105](https://github.com/CirrusByte42/ca9s/pull/2105) Fix the wrong/redundant icon in the prompt bar
+* [PR #2103](https://github.com/CirrusByte42/ca9s/pull/2103) Update carvel.yml to include contexts
+* [PR #2096](https://github.com/CirrusByte42/ca9s/pull/2096) fix: (config) only respect the --command flag once
+* [PR #2091](https://github.com/CirrusByte42/ca9s/pull/2091) Add get-all plugin specific for namespace view
+* [PR #2089](https://github.com/CirrusByte42/ca9s/pull/2089) Resources are rendered using skin.yaml colors
+* [PR #2082](https://github.com/CirrusByte42/ca9s/pull/2082) Fix typo introduced in #2045
 
 ---
 

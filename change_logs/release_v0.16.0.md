@@ -168,17 +168,17 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #557](https://github.com/derailed/k9s/issues/557)
-- [Issue #555](https://github.com/derailed/k9s/issues/555)
-- [Issue #554](https://github.com/derailed/k9s/issues/554)
-- [Issue #553](https://github.com/derailed/k9s/issues/553)
-- [Issue #552](https://github.com/derailed/k9s/issues/552)
-- [Issue #551](https://github.com/derailed/k9s/issues/551)
-- [Issue #549](https://github.com/derailed/k9s/issues/549) A start with pulses...
-- [Issue #540](https://github.com/derailed/k9s/issues/540)
-- [Issue #421](https://github.com/derailed/k9s/issues/421)
-- [Issue #351](https://github.com/derailed/k9s/issues/351) Solved by Pulses?
-- [Issue #25](https://github.com/derailed/k9s/issues/25) Pulses? Oldie but goodie!
+- [Issue #557](https://github.com/CirrusByte42/ca9s/issues/557)
+- [Issue #555](https://github.com/CirrusByte42/ca9s/issues/555)
+- [Issue #554](https://github.com/CirrusByte42/ca9s/issues/554)
+- [Issue #553](https://github.com/CirrusByte42/ca9s/issues/553)
+- [Issue #552](https://github.com/CirrusByte42/ca9s/issues/552)
+- [Issue #551](https://github.com/CirrusByte42/ca9s/issues/551)
+- [Issue #549](https://github.com/CirrusByte42/ca9s/issues/549) A start with pulses...
+- [Issue #540](https://github.com/CirrusByte42/ca9s/issues/540)
+- [Issue #421](https://github.com/CirrusByte42/ca9s/issues/421)
+- [Issue #351](https://github.com/CirrusByte42/ca9s/issues/351) Solved by Pulses?
+- [Issue #25](https://github.com/CirrusByte42/ca9s/issues/25) Pulses? Oldie but goodie!
 
 ---
 

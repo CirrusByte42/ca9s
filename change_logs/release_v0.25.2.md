@@ -19,9 +19,9 @@ May need a few rapid fires to regain some sanity so please bare with us and than
 
 ## Resolved Issues
 
-* [Issue #1311](https://github.com/derailed/k9s/issues/1311) Pressing '?' in logs view (no logs) crashes on nil dereference
-* [Issue #1310](https://github.com/derailed/k9s/issues/1310) PV/PVC accessMode getting exception
-* [Issue #1293](https://github.com/derailed/k9s/issues/1293) Broken rollouts for dp/sts/ds with multiple ports of the same number
+* [Issue #1311](https://github.com/CirrusByte42/ca9s/issues/1311) Pressing '?' in logs view (no logs) crashes on nil dereference
+* [Issue #1310](https://github.com/CirrusByte42/ca9s/issues/1310) PV/PVC accessMode getting exception
+* [Issue #1293](https://github.com/CirrusByte42/ca9s/issues/1293) Broken rollouts for dp/sts/ds with multiple ports of the same number
 
 ---
 

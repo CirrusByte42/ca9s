@@ -20,7 +20,7 @@ Thank you so much for your support!!
 
 <br/>
 
-+ [Feature #54](https://github.com/derailed/k9s/issues/54)
++ [Feature #54](https://github.com/CirrusByte42/ca9s/issues/54)
   Changed pod colorer to not show error status while initializing
   Tx! [jawahars16](https://github.com/jawahars16), [jmreicha](https://github.com/jmreicha)
 

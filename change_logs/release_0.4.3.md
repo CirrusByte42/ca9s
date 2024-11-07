@@ -22,7 +22,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ Sort by age busted (with feeling edition!) [Issue #145](https://github.com/derailed/k9s/issues/145)
++ Sort by age busted (with feeling edition!) [Issue #145](https://github.com/CirrusByte42/ca9s/issues/145)
 
 ---
 

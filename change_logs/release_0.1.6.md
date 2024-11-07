@@ -20,10 +20,10 @@ Thank you so much for your support!!
 
 <br/>
 
-+ [Feature request #43](https://github.com/derailed/k9s/issues/43) Add CronJob Manual Trigger.
++ [Feature request #43](https://github.com/CirrusByte42/ca9s/issues/43) Add CronJob Manual Trigger.
   All of this work is attributed to [dzoeteman](https://github.com/dzoeteman). Thank you!
 + Added ability to view logs on Job resource.
-+ [Feature request #37](https://github.com/derailed/k9s/issues/37) Added Describe on resources as
++ [Feature request #37](https://github.com/CirrusByte42/ca9s/issues/37) Added Describe on resources as
   in kubectl describe xxx
 + NOTE! Changed alias to `job` and `cron` vs `jo` and `cjo`
 

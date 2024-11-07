@@ -16,9 +16,9 @@ Maintenance Release! The aftermath...
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #819](https://github.com/derailed/k9s/issues/819)
-* [Issue #818](https://github.com/derailed/k9s/issues/818)
-* [Issue #797](https://github.com/derailed/k9s/issues/797)
+* [Issue #819](https://github.com/CirrusByte42/ca9s/issues/819)
+* [Issue #818](https://github.com/CirrusByte42/ca9s/issues/818)
+* [Issue #797](https://github.com/CirrusByte42/ca9s/issues/797)
 
 ---
 

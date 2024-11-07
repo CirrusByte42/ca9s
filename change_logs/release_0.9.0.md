@@ -91,12 +91,12 @@ Added support for StorageClass, you can now view this resource and describe it d
 
 ## Resolved Bugs/Features
 
-* [Issue #318](https://github.com/derailed/k9s/issues/318)
-* [Issue #303](https://github.com/derailed/k9s/issues/303)
-* [Issue #301](https://github.com/derailed/k9s/issues/301)
-* [Issue #300](https://github.com/derailed/k9s/issues/300)
-* [Issue #276](https://github.com/derailed/k9s/issues/276)
-* [Issue #268](https://github.com/derailed/k9s/issues/268)
+* [Issue #318](https://github.com/CirrusByte42/ca9s/issues/318)
+* [Issue #303](https://github.com/CirrusByte42/ca9s/issues/303)
+* [Issue #301](https://github.com/CirrusByte42/ca9s/issues/301)
+* [Issue #300](https://github.com/CirrusByte42/ca9s/issues/300)
+* [Issue #276](https://github.com/CirrusByte42/ca9s/issues/276)
+* [Issue #268](https://github.com/CirrusByte42/ca9s/issues/268)
 
 ---
 

@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/ui/dialog"
 	"github.com/derailed/tcell/v2"
 )
 

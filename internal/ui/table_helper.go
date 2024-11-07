@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/config"
 	"github.com/rs/zerolog/log"
 )
 

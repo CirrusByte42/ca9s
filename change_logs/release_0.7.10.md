@@ -18,8 +18,8 @@ Meow! Looks like v0.7.9 hosed the logger ;) Sorry!!
 
 ## Resolved Bugs/Features
 
-+ [Issue #245](https://github.com/derailed/k9s/issues/245)
-+ [Issue #231](https://github.com/derailed/k9s/issues/231)
++ [Issue #245](https://github.com/CirrusByte42/ca9s/issues/245)
++ [Issue #231](https://github.com/CirrusByte42/ca9s/issues/231)
 
 ---
 

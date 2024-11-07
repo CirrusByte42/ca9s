@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config"
 	"github.com/rs/zerolog/log"
 
 	"github.com/anchore/clio"

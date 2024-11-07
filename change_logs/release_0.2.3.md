@@ -18,4 +18,4 @@ Thank you so much for your support!!
 
 ## Resolved Bugs
 
-+ [Issue #109](https://github.com/derailed/k9s/issues/109)
++ [Issue #109](https://github.com/CirrusByte42/ca9s/issues/109)

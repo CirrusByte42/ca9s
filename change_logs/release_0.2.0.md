@@ -14,17 +14,17 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-+ [Feature #97](https://github.com/derailed/k9s/issues/97)
++ [Feature #97](https://github.com/CirrusByte42/ca9s/issues/97)
   Changed log view to now use kubectl logs shell command.
   There was some issues with the previous implementation with missing info and panics.
   NOTE! User must type Ctrl-C to exit the logs and navigate back to K9s
 + Reordered containers to show spec.containers first vs spec.initcontainers.
-+ [Feature #29](https://github.com/derailed/k9s/issues/29)
++ [Feature #29](https://github.com/CirrusByte42/ca9s/issues/29)
   Side effect of #97 Log coloring if present, will now show in the terminal.
 
 ---
 
 ## Resolved Bugs
 
-* [Issue #99](https://github.com/derailed/k9s/issues/99)
-* [Issue #100](https://github.com/derailed/k9s/issues/100)
+* [Issue #99](https://github.com/CirrusByte42/ca9s/issues/99)
+* [Issue #100](https://github.com/CirrusByte42/ca9s/issues/100)

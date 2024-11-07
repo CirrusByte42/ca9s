@@ -23,7 +23,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #790](https://github.com/derailed/k9s/issues/790) My bad! Must get mo' sleep ;(
+* [Issue #790](https://github.com/CirrusByte42/ca9s/issues/790) My bad! Must get mo' sleep ;(
 
 ---
 

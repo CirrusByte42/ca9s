@@ -172,23 +172,23 @@ The first drop should be up by the time you read this!
 
 ## Resolved Issues
 
-* [#2308](https://github.com/derailed/k9s/issues/2308) Unable to list CRs for crd with only list and get verb without watch verb
-* [#2301](https://github.com/derailed/k9s/issues/2301) Add imagePullPolicy and imagePullSecrets on shell_pod for internal registry uses
-* [#2298](https://github.com/derailed/k9s/issues/2298) Weird color after plugin usage
-* [#2297](https://github.com/derailed/k9s/issues/2297) Select nodes with space does not work anymore
-* [#2290](https://github.com/derailed/k9s/issues/2290) Provide release assets for freebsd amd64/arm64
-* [#2283](https://github.com/derailed/k9s/issues/2283) Adding auto complete in search bar
-* [#2219](https://github.com/derailed/k9s/issues/2219) Add tty: true to the node shell pod manifest
-* [#2167](https://github.com/derailed/k9s/issues/2167) Show wrong Configmap data
-* [#2166](https://github.com/derailed/k9s/issues/2166) Taint count for the nodes view
-* [#2165](https://github.com/derailed/k9s/issues/2165) Restart counter for init containers
-* [#2162](https://github.com/derailed/k9s/issues/2162) Make edit work when describing a resource
-* [#2154](https://github.com/derailed/k9s/issues/2154) Help and h command does not work if typed into cmdbuff
-* [#2036](https://github.com/derailed/k9s/issues/2036) Crashed while do filtering
-* [#2009](https://github.com/derailed/k9s/issues/2009) Ctrl-s: Name of file (Describe-....)
-* [#1513](https://github.com/derailed/k9s/issues/1513) Problem regarding showing the logs - it hangs/slow on pods which are running for long time
+* [#2308](https://github.com/CirrusByte42/ca9s/issues/2308) Unable to list CRs for crd with only list and get verb without watch verb
+* [#2301](https://github.com/CirrusByte42/ca9s/issues/2301) Add imagePullPolicy and imagePullSecrets on shell_pod for internal registry uses
+* [#2298](https://github.com/CirrusByte42/ca9s/issues/2298) Weird color after plugin usage
+* [#2297](https://github.com/CirrusByte42/ca9s/issues/2297) Select nodes with space does not work anymore
+* [#2290](https://github.com/CirrusByte42/ca9s/issues/2290) Provide release assets for freebsd amd64/arm64
+* [#2283](https://github.com/CirrusByte42/ca9s/issues/2283) Adding auto complete in search bar
+* [#2219](https://github.com/CirrusByte42/ca9s/issues/2219) Add tty: true to the node shell pod manifest
+* [#2167](https://github.com/CirrusByte42/ca9s/issues/2167) Show wrong Configmap data
+* [#2166](https://github.com/CirrusByte42/ca9s/issues/2166) Taint count for the nodes view
+* [#2165](https://github.com/CirrusByte42/ca9s/issues/2165) Restart counter for init containers
+* [#2162](https://github.com/CirrusByte42/ca9s/issues/2162) Make edit work when describing a resource
+* [#2154](https://github.com/CirrusByte42/ca9s/issues/2154) Help and h command does not work if typed into cmdbuff
+* [#2036](https://github.com/CirrusByte42/ca9s/issues/2036) Crashed while do filtering
+* [#2009](https://github.com/CirrusByte42/ca9s/issues/2009) Ctrl-s: Name of file (Describe-....)
+* [#1513](https://github.com/CirrusByte42/ca9s/issues/1513) Problem regarding showing the logs - it hangs/slow on pods which are running for long time
   NOTE: Better but not cured! Perf improvements while viewing large cm (7k lines) from 26s->9s
-* [#568](https://github.com/derailed/k9s/issues/568) Allow both .yaml and .yml yaml config files
+* [#568](https://github.com/CirrusByte42/ca9s/issues/568) Allow both .yaml and .yml yaml config files
 
 ---
 
@@ -196,16 +196,16 @@ The first drop should be up by the time you read this!
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2322](https://github.com/derailed/k9s/pull/2322) Check if the service provides selectors
-* [#2319](https://github.com/derailed/k9s/pull/2319) Proper handling of help commands (fixes #2154)
-* [#2315](https://github.com/derailed/k9s/pull/2315) Fix namespace suggestion error on context switch
-* [#2313](https://github.com/derailed/k9s/pull/2313) Should not clear screen when executing plugin command
-* [#2310](https://github.com/derailed/k9s/pull/2310) chore: Mot recommended to use k8s.io/kubernetes as a dependency
-* [#2303](https://github.com/derailed/k9s/pull/2303) Clean up items
-* [#2301](https://github.com/derailed/k9s/pull/2301) feat: Add imagePullSecrets and imagePullPolicy configuration for shellpod
-* [#2289](https://github.com/derailed/k9s/pull/2289) Clean up issues introduced in #2125
-* [#2288](https://github.com/derailed/k9s/pull/2288) Fix merge issues from PR #2168
-* [#2284](https://github.com/derailed/k9s/issues/2284) Allow both .yaml and .yml yaml config files
+* [#2322](https://github.com/CirrusByte42/ca9s/pull/2322) Check if the service provides selectors
+* [#2319](https://github.com/CirrusByte42/ca9s/pull/2319) Proper handling of help commands (fixes #2154)
+* [#2315](https://github.com/CirrusByte42/ca9s/pull/2315) Fix namespace suggestion error on context switch
+* [#2313](https://github.com/CirrusByte42/ca9s/pull/2313) Should not clear screen when executing plugin command
+* [#2310](https://github.com/CirrusByte42/ca9s/pull/2310) chore: Mot recommended to use k8s.io/kubernetes as a dependency
+* [#2303](https://github.com/CirrusByte42/ca9s/pull/2303) Clean up items
+* [#2301](https://github.com/CirrusByte42/ca9s/pull/2301) feat: Add imagePullSecrets and imagePullPolicy configuration for shellpod
+* [#2289](https://github.com/CirrusByte42/ca9s/pull/2289) Clean up issues introduced in #2125
+* [#2288](https://github.com/CirrusByte42/ca9s/pull/2288) Fix merge issues from PR #2168
+* [#2284](https://github.com/CirrusByte42/ca9s/issues/2284) Allow both .yaml and .yml yaml config files
 
 ---
 

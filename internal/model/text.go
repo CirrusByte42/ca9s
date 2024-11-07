@@ -6,7 +6,7 @@ package model
 import (
 	"strings"
 
-	"github.com/derailed/k9s/internal"
+	"github.com/CirrusByte42/ca9s/internal"
 	"github.com/sahilm/fuzzy"
 )
 

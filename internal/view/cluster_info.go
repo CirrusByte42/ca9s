@@ -6,11 +6,11 @@ package view
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 	"github.com/rs/zerolog/log"

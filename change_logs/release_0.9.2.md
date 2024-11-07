@@ -27,28 +27,28 @@ There was an issue with the header toggle mnemonic `Ctrl-H` and it has been chan
 
 ## Merged PRs
 
-* [PR #365](https://github.com/derailed/k9s/pull/365) Fix Alias columns sorting.
-* [PR #363](https://github.com/derailed/k9s/issues/363) Change Terminated to Terminating
-* [PR #360](https://github.com/derailed/k9s/pull/360) Header toggle while typing commands
-* [PR #359](https://github.com/derailed/k9s/pull/359) Add support for CRD v1beta1
-* [PR #356](https://github.com/derailed/k9s/pull/356) Remove Object field from CRD yaml
-* [PR #347](https://github.com/derailed/k9s/pull/347) Sort node roles
-* [PR #346](https://github.com/derailed/k9s/pull/346) Optimize configmap and secret rendering
-* [PR #342](https://github.com/derailed/k9s/pull/342) Add copy YAML to clipboard
-* [PR #338](https://github.com/derailed/k9s/pull/338) Escape describe text
-* [PR #330](https://github.com/derailed/k9s/pull/330) Don't override standard K8s short names
-* [PR #324](https://github.com/derailed/k9s/pull/324) Leverage cached client to speed up K9s
+* [PR #365](https://github.com/CirrusByte42/ca9s/pull/365) Fix Alias columns sorting.
+* [PR #363](https://github.com/CirrusByte42/ca9s/issues/363) Change Terminated to Terminating
+* [PR #360](https://github.com/CirrusByte42/ca9s/pull/360) Header toggle while typing commands
+* [PR #359](https://github.com/CirrusByte42/ca9s/pull/359) Add support for CRD v1beta1
+* [PR #356](https://github.com/CirrusByte42/ca9s/pull/356) Remove Object field from CRD yaml
+* [PR #347](https://github.com/CirrusByte42/ca9s/pull/347) Sort node roles
+* [PR #346](https://github.com/CirrusByte42/ca9s/pull/346) Optimize configmap and secret rendering
+* [PR #342](https://github.com/CirrusByte42/ca9s/pull/342) Add copy YAML to clipboard
+* [PR #338](https://github.com/CirrusByte42/ca9s/pull/338) Escape describe text
+* [PR #330](https://github.com/CirrusByte42/ca9s/pull/330) Don't override standard K8s short names
+* [PR #324](https://github.com/CirrusByte42/ca9s/pull/324) Leverage cached client to speed up K9s
 
 ---
 
 ## Resolved Bugs/Features
 
-* [Issue #361](https://github.com/derailed/k9s/issues/361)
-* [Issue #341](https://github.com/derailed/k9s/issues/341)
-* [Issue #335](https://github.com/derailed/k9s/issues/335)
-* [Issue #331](https://github.com/derailed/k9s/issues/331)
-* [Issue #323](https://github.com/derailed/k9s/issues/323)
-* [Issue #280](https://github.com/derailed/k9s/issues/280)
+* [Issue #361](https://github.com/CirrusByte42/ca9s/issues/361)
+* [Issue #341](https://github.com/CirrusByte42/ca9s/issues/341)
+* [Issue #335](https://github.com/CirrusByte42/ca9s/issues/335)
+* [Issue #331](https://github.com/CirrusByte42/ca9s/issues/331)
+* [Issue #323](https://github.com/CirrusByte42/ca9s/issues/323)
+* [Issue #280](https://github.com/CirrusByte42/ca9s/issues/280)
 
 ---
 

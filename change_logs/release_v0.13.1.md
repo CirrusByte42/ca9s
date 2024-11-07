@@ -30,8 +30,8 @@ Still work in progress... so please proceed with caution!
 
 ## Resolved Bugs/Features
 
-* [Issue #498](https://github.com/derailed/k9s/issues/498)
-* [Issue #497](https://github.com/derailed/k9s/issues/497)
+* [Issue #498](https://github.com/CirrusByte42/ca9s/issues/498)
+* [Issue #497](https://github.com/CirrusByte42/ca9s/issues/497)
 
 ---
 

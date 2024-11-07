@@ -80,12 +80,12 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [#2527](https://github.com/derailed/k9s/issues/2527) Multiple k9s panels open in parallel for the same cluster breaks config.yaml
-* [#2520](https://github.com/derailed/k9s/issues/2520) pods with init container with restartPolicy: Always stay in Init status
-* [#2501](https://github.com/derailed/k9s/issues/2501) Cannot add plugins to helm scope bug
-* [#2492](https://github.com/derailed/k9s/issues/2492) API Resources "carry over" between contexts, causing errors if they share shortnames
-* [#1158](https://github.com/derailed/k9s/issues/1158) Removing a helm release incorrectly determines the namespace of resources
-* [#1033](https://github.com/derailed/k9s/issues/1033) Helm delete deletes only the helm entry but not the deployment
+* [#2527](https://github.com/CirrusByte42/ca9s/issues/2527) Multiple k9s panels open in parallel for the same cluster breaks config.yaml
+* [#2520](https://github.com/CirrusByte42/ca9s/issues/2520) pods with init container with restartPolicy: Always stay in Init status
+* [#2501](https://github.com/CirrusByte42/ca9s/issues/2501) Cannot add plugins to helm scope bug
+* [#2492](https://github.com/CirrusByte42/ca9s/issues/2492) API Resources "carry over" between contexts, causing errors if they share shortnames
+* [#1158](https://github.com/CirrusByte42/ca9s/issues/1158) Removing a helm release incorrectly determines the namespace of resources
+* [#1033](https://github.com/CirrusByte42/ca9s/issues/1033) Helm delete deletes only the helm entry but not the deployment
 
 ---
 
@@ -93,9 +93,9 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2509](https://github.com/derailed/k9s/pull/2509) Fix Toggle Faults filtering
-* [#2511](https://github.com/derailed/k9s/pull/2511) adding the f command to pf extender view
-* [#2518](https://github.com/derailed/k9s/pull/2518) Added defaultsToFullScreen flag for Live/Details view,logs
+* [#2509](https://github.com/CirrusByte42/ca9s/pull/2509) Fix Toggle Faults filtering
+* [#2511](https://github.com/CirrusByte42/ca9s/pull/2511) adding the f command to pf extender view
+* [#2518](https://github.com/CirrusByte42/ca9s/pull/2518) Added defaultsToFullScreen flag for Live/Details view,logs
 
 ---
 

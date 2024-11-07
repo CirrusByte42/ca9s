@@ -20,9 +20,9 @@ Thank you all for kicking the tires on these new drops and in making sure we get
 
 ## Resolved Bugs/Features
 
-* [Issue #455](https://github.com/derailed/k9s/issues/455)
-* [Issue #454](https://github.com/derailed/k9s/issues/454)
-* [Issue #453](https://github.com/derailed/k9s/issues/453)
+* [Issue #455](https://github.com/CirrusByte42/ca9s/issues/455)
+* [Issue #454](https://github.com/CirrusByte42/ca9s/issues/454)
+* [Issue #453](https://github.com/CirrusByte42/ca9s/issues/453)
 
 ---
 

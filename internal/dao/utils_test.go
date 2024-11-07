@@ -10,9 +10,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/watch"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/watch"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/runtime"

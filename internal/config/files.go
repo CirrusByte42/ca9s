@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
 
 	"github.com/adrg/xdg"
 	"github.com/rs/zerolog/log"

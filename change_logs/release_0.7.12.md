@@ -18,13 +18,13 @@ Maintenance release. Just code clean up and bug fixes.
 
 ## Resolved Bugs/Features
 
-+ [Issue #259](https://github.com/derailed/k9s/issues/259)
-+ [Issue #258](https://github.com/derailed/k9s/issues/258)
-+ [Issue #256](https://github.com/derailed/k9s/issues/256)
-+ [Issue #255](https://github.com/derailed/k9s/issues/255)
-+ [Issue #252](https://github.com/derailed/k9s/issues/252)
-+ [Issue #250](https://github.com/derailed/k9s/issues/250)
-+ [Issue #246](https://github.com/derailed/k9s/issues/246)
++ [Issue #259](https://github.com/CirrusByte42/ca9s/issues/259)
++ [Issue #258](https://github.com/CirrusByte42/ca9s/issues/258)
++ [Issue #256](https://github.com/CirrusByte42/ca9s/issues/256)
++ [Issue #255](https://github.com/CirrusByte42/ca9s/issues/255)
++ [Issue #252](https://github.com/CirrusByte42/ca9s/issues/252)
++ [Issue #250](https://github.com/CirrusByte42/ca9s/issues/250)
++ [Issue #246](https://github.com/CirrusByte42/ca9s/issues/246)
 
 ---
 

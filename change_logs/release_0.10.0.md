@@ -59,30 +59,30 @@ Feeling like you want to be able to quickly switch around your favorite resource
 
 ## PullRequests
 
-* [PR #447](https://github.com/derailed/k9s/pull/447) K9s MacPorts support. Thank you! [Nils Breunese](https://github.com/breun)
-* [PR #446](https://github.com/derailed/k9s/pull/446) Same key invert sort. Big thanks!! [James Hiew](https://github.com/jameshiew)
-* [PR #445](https://github.com/derailed/k9s/pull/445) Use `?` to toggle help. Major thanks!! [Ramz](https://github.com/ageekymonk)
-* [PR #443](https://github.com/derailed/k9s/pull/443) Hex color skin support. Great work! [Gavin Ray](https://github.com/gavinray97)
-* [PR #442](https://github.com/derailed/k9s/pull/442) Full screen/Wrap support on log view. ATTA BOY! [Shiv3](https://github.com/shiv3)
-* [PR #412](https://github.com/derailed/k9s/pull/412) Simplify cruder interface. ATTA BOY!! (as always)[Gustavo Silva Paiva](https://github.com/paivagustavo)
-* [PR #350](https://github.com/derailed/k9s/pull/350) Sanitize file name before saving. All credits to [Tuomo Syvänperä](https://github.com/syvanpera)
+* [PR #447](https://github.com/CirrusByte42/ca9s/pull/447) K9s MacPorts support. Thank you! [Nils Breunese](https://github.com/breun)
+* [PR #446](https://github.com/CirrusByte42/ca9s/pull/446) Same key invert sort. Big thanks!! [James Hiew](https://github.com/jameshiew)
+* [PR #445](https://github.com/CirrusByte42/ca9s/pull/445) Use `?` to toggle help. Major thanks!! [Ramz](https://github.com/ageekymonk)
+* [PR #443](https://github.com/CirrusByte42/ca9s/pull/443) Hex color skin support. Great work! [Gavin Ray](https://github.com/gavinray97)
+* [PR #442](https://github.com/CirrusByte42/ca9s/pull/442) Full screen/Wrap support on log view. ATTA BOY! [Shiv3](https://github.com/shiv3)
+* [PR #412](https://github.com/CirrusByte42/ca9s/pull/412) Simplify cruder interface. ATTA BOY!! (as always)[Gustavo Silva Paiva](https://github.com/paivagustavo)
+* [PR #350](https://github.com/CirrusByte42/ca9s/pull/350) Sanitize file name before saving. All credits to [Tuomo Syvänperä](https://github.com/syvanpera)
 
 ---
 
 ## Resolved Bugs/Features
 
-* [Issue #437](https://github.com/derailed/k9s/issues/437) Error when viewing cluster role on a role binding.
-* [Issue #434](https://github.com/derailed/k9s/issues/434) Same key `?` toggle help.
-* [Issue #432](https://github.com/derailed/k9s/issues/432) Add address field to port forwards.
-* [Issue #431](https://github.com/derailed/k9s/issues/431) Add LimitRange resource support.
-* [Issue #430](https://github.com/derailed/k9s/issues/430) Add HotKey support.
-* [Issue #426](https://github.com/derailed/k9s/issues/426) Address slow scroll while in table view.
-* [Issue #417](https://github.com/derailed/k9s/issues/417) Ensure code lints correctly. Thank you Gustavo!!
-* [Issue #415](https://github.com/derailed/k9s/issues/415) Add provisions to support longer clusterinfo/namespace header.
-* [Issue #408](https://github.com/derailed/k9s/issues/408) Same key toggle inverse sort.
-* [Issue #402](https://github.com/derailed/k9s/issues/402) Add `all` support to plugin scope.
-* [Issue #401](https://github.com/derailed/k9s/issues/401) Add support for custom plugins on all views.
-* [Issue #397](https://github.com/derailed/k9s/issues/397) Support HPA v2beta1 + v2beta2.
+* [Issue #437](https://github.com/CirrusByte42/ca9s/issues/437) Error when viewing cluster role on a role binding.
+* [Issue #434](https://github.com/CirrusByte42/ca9s/issues/434) Same key `?` toggle help.
+* [Issue #432](https://github.com/CirrusByte42/ca9s/issues/432) Add address field to port forwards.
+* [Issue #431](https://github.com/CirrusByte42/ca9s/issues/431) Add LimitRange resource support.
+* [Issue #430](https://github.com/CirrusByte42/ca9s/issues/430) Add HotKey support.
+* [Issue #426](https://github.com/CirrusByte42/ca9s/issues/426) Address slow scroll while in table view.
+* [Issue #417](https://github.com/CirrusByte42/ca9s/issues/417) Ensure code lints correctly. Thank you Gustavo!!
+* [Issue #415](https://github.com/CirrusByte42/ca9s/issues/415) Add provisions to support longer clusterinfo/namespace header.
+* [Issue #408](https://github.com/CirrusByte42/ca9s/issues/408) Same key toggle inverse sort.
+* [Issue #402](https://github.com/CirrusByte42/ca9s/issues/402) Add `all` support to plugin scope.
+* [Issue #401](https://github.com/CirrusByte42/ca9s/issues/401) Add support for custom plugins on all views.
+* [Issue #397](https://github.com/CirrusByte42/ca9s/issues/397) Support HPA v2beta1 + v2beta2.
 
 ---
 

@@ -7,9 +7,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/model1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

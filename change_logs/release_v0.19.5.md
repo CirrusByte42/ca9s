@@ -50,22 +50,22 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #714](https://github.com/derailed/k9s/issues/714)
-* [Issue #713](https://github.com/derailed/k9s/issues/713)
-* [Issue #708](https://github.com/derailed/k9s/issues/708)
-* [Issue #707](https://github.com/derailed/k9s/issues/707)
-* [Issue #705](https://github.com/derailed/k9s/issues/705)
-* [Issue #704](https://github.com/derailed/k9s/issues/704)
-* [Issue #702](https://github.com/derailed/k9s/issues/702)
-* [Issue #700](https://github.com/derailed/k9s/issues/700) Fingers and toes crossed ;)
-* [Issue #694](https://github.com/derailed/k9s/issues/694)
-* [Issue #663](https://github.com/derailed/k9s/issues/663) Partially - should be better launching in a given namespace ie k9s -n fred??
-* [Issue #702](https://github.com/derailed/k9s/issues/702)
-* [PR #709](https://github.com/derailed/k9s/pull/709) All credits goes to [Namco](https://github.com/namco1992)!!
-* [PR #706](https://github.com/derailed/k9s/pull/706) Big Thanks to [M. Tarık Yurt](https://github.com/mtyurt)!
-* [PR #704](https://github.com/derailed/k9s/pull/704) Atta Boy!! [psvo](https://github.com/psvo)
-* [PR #696](https://github.com/derailed/k9s/pull/696) Thank you! Credits to [Christian Köhn](https://github.com/ckoehn)
-* [PR #691](https://github.com/derailed/k9s/pull/691) Mega Thanks To [Pavel Tumik](https://github.com/sagor999)!
+* [Issue #714](https://github.com/CirrusByte42/ca9s/issues/714)
+* [Issue #713](https://github.com/CirrusByte42/ca9s/issues/713)
+* [Issue #708](https://github.com/CirrusByte42/ca9s/issues/708)
+* [Issue #707](https://github.com/CirrusByte42/ca9s/issues/707)
+* [Issue #705](https://github.com/CirrusByte42/ca9s/issues/705)
+* [Issue #704](https://github.com/CirrusByte42/ca9s/issues/704)
+* [Issue #702](https://github.com/CirrusByte42/ca9s/issues/702)
+* [Issue #700](https://github.com/CirrusByte42/ca9s/issues/700) Fingers and toes crossed ;)
+* [Issue #694](https://github.com/CirrusByte42/ca9s/issues/694)
+* [Issue #663](https://github.com/CirrusByte42/ca9s/issues/663) Partially - should be better launching in a given namespace ie k9s -n fred??
+* [Issue #702](https://github.com/CirrusByte42/ca9s/issues/702)
+* [PR #709](https://github.com/CirrusByte42/ca9s/pull/709) All credits goes to [Namco](https://github.com/namco1992)!!
+* [PR #706](https://github.com/CirrusByte42/ca9s/pull/706) Big Thanks to [M. Tarık Yurt](https://github.com/mtyurt)!
+* [PR #704](https://github.com/CirrusByte42/ca9s/pull/704) Atta Boy!! [psvo](https://github.com/psvo)
+* [PR #696](https://github.com/CirrusByte42/ca9s/pull/696) Thank you! Credits to [Christian Köhn](https://github.com/ckoehn)
+* [PR #691](https://github.com/CirrusByte42/ca9s/pull/691) Mega Thanks To [Pavel Tumik](https://github.com/sagor999)!
 
 ---
 

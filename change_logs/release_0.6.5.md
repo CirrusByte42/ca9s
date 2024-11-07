@@ -20,8 +20,8 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ [Issue #178](https://github.com/derailed/k9s/issues/178)
-+ [Issue #179](https://github.com/derailed/k9s/issues/179)
++ [Issue #178](https://github.com/CirrusByte42/ca9s/issues/178)
++ [Issue #179](https://github.com/CirrusByte42/ca9s/issues/179)
 
 ---
 

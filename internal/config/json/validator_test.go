@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config/json"
+	"github.com/CirrusByte42/ca9s/internal/config/json"
 	"github.com/stretchr/testify/assert"
 )
 

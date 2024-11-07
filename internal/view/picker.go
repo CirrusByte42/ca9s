@@ -6,8 +6,8 @@ package view
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/model"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 )

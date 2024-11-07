@@ -14,7 +14,7 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-1. [Feature #124](https://github.com/derailed/k9s/issues/124)
+1. [Feature #124](https://github.com/CirrusByte42/ca9s/issues/124)
    1. *NodeView* Add current cpu/memory percentages to track current load on nodes.
    2. *NodeView* Add requested cpu/memory percentages to track how much containers
      resources are requested on the cluster.

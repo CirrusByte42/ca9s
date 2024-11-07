@@ -3,7 +3,8 @@ package view
 import (
 	"context"
 	"fmt"
-	"github.com/derailed/k9s/internal/ui/dialog"
+
+	"github.com/CirrusByte42/ca9s/internal/ui/dialog"
 	"github.com/rs/zerolog/log"
 
 	"github.com/derailed/tcell/v2"
@@ -13,11 +14,11 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 )
 
 // OwnerExtender adds owner actions to a given viewer.

@@ -26,9 +26,9 @@ There was a few issues regarding running K9s on RBAC enabled clusters. It turns 
 
 ## Resolved Bugs/Features
 
-+ [Issue #242](https://github.com/derailed/k9s/issues/242)
-+ [Issue #241](https://github.com/derailed/k9s/issues/241)
-+ [Issue #201](https://github.com/derailed/k9s/issues/201)
++ [Issue #242](https://github.com/CirrusByte42/ca9s/issues/242)
++ [Issue #241](https://github.com/CirrusByte42/ca9s/issues/241)
++ [Issue #201](https://github.com/CirrusByte42/ca9s/issues/201)
 
 ---
 

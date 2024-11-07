@@ -17,9 +17,9 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs/Features
 
-+ [Issue #210](https://github.com/derailed/k9s/issues/210)
-+ [Issue #209](https://github.com/derailed/k9s/issues/209)
-+ [Issue #206](https://github.com/derailed/k9s/issues/206) Thank you @carlowouters!!
++ [Issue #210](https://github.com/CirrusByte42/ca9s/issues/210)
++ [Issue #209](https://github.com/CirrusByte42/ca9s/issues/209)
++ [Issue #206](https://github.com/CirrusByte42/ca9s/issues/206) Thank you @carlowouters!!
 
 
 ---

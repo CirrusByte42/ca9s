@@ -24,7 +24,7 @@ Ran thru another perf pass and hope I've pushed the needle in the right directio
 
 ## Resolved Bugs
 
-+ [Issue #176](https://github.com/derailed/k9s/issues/171) Fingers crossed it's a better drop 🙏🐭?
++ [Issue #176](https://github.com/CirrusByte42/ca9s/issues/171) Fingers crossed it's a better drop 🙏🐭?
 
 ---
 

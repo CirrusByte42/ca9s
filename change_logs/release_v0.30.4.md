@@ -34,10 +34,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2391](https://github.com/derailed/k9s/issues/2391) Version 0.30.* has issues with : chars in the cluster names from AWS
-* [#2397](https://github.com/derailed/k9s/issues/2387) Error: invalid namespace xxx
-* [#2389](https://github.com/derailed/k9s/issues/2389) Mixed-case named contexts cannot be switched to from contexts view
-* [#2382](https://github.com/derailed/k9s/issues/2382) Header always shows Cluster from kubeconfig current-context
+* [#2391](https://github.com/CirrusByte42/ca9s/issues/2391) Version 0.30.* has issues with : chars in the cluster names from AWS
+* [#2397](https://github.com/CirrusByte42/ca9s/issues/2387) Error: invalid namespace xxx
+* [#2389](https://github.com/CirrusByte42/ca9s/issues/2389) Mixed-case named contexts cannot be switched to from contexts view
+* [#2382](https://github.com/CirrusByte42/ca9s/issues/2382) Header always shows Cluster from kubeconfig current-context
 
 ---
 
@@ -45,7 +45,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2390](https://github.com/derailed/k9s/pull/2390) case sensitive for specific command args and flags
+* [#2390](https://github.com/CirrusByte42/ca9s/pull/2390) case sensitive for specific command args and flags
 
 ---
 

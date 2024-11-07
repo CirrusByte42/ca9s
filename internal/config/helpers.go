@@ -8,7 +8,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/derailed/k9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
 	"github.com/rs/zerolog/log"
 	v1 "k8s.io/api/core/v1"
 )

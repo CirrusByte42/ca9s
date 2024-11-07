@@ -14,7 +14,7 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-+ [Issue #87](https://github.com/derailed/k9s/issues/87) Added confirmation dialog on
++ [Issue #87](https://github.com/CirrusByte42/ca9s/issues/87) Added confirmation dialog on
   resource deletion. Either hit <ESC> or <Cancel> button to bail out of deletion.
 
 ---

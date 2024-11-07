@@ -16,7 +16,7 @@ Thank you so much for your support and awesome suggestions to make K9s better!!
 
 > NOTE! Lots of changes here, please report any disturbances in the force. Thank you!
 
-1. [Feature #82](https://github.com/derailed/k9s/issues/82)
+1. [Feature #82](https://github.com/CirrusByte42/ca9s/issues/82)
    1. Added ability to view RBAC policies while in clusterrole or role view.
    2. The RBAC view will auto-refresh just like any K9s views hence showing live RBAC updates
    3. RBAC view supports standard K8s verbs ie get,list,deletecollection,watch,create,patch,update,delete.

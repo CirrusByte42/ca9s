@@ -41,14 +41,14 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1968](https://github.com/derailed/k9s/issues/1968) Some skins are missing the definitions for the help menu
-* [Issue #1967](https://github.com/derailed/k9s/issues/1967) Helm cve-2023-25165
-* [Issue #1964](https://github.com/derailed/k9s/issues/1964) logger.sinceSeconds config setting inconsistent with README
-* [Issue #1955](https://github.com/derailed/k9s/issues/1955) K9s crashes with empty resources and/or verbs in RBAC
-* [Issue #1954](https://github.com/derailed/k9s/issues/1954) Open very slow
-* [Issue #1883](https://github.com/derailed/k9s/issues/1883) Fix force deletion
-* [Issue #1788](https://github.com/derailed/k9s/issues/1788) Draining nodes cannot be forced
-* [Issue #1150](https://github.com/derailed/k9s/issues/1150) Add a persistent popup for drain failures
+* [Issue #1968](https://github.com/CirrusByte42/ca9s/issues/1968) Some skins are missing the definitions for the help menu
+* [Issue #1967](https://github.com/CirrusByte42/ca9s/issues/1967) Helm cve-2023-25165
+* [Issue #1964](https://github.com/CirrusByte42/ca9s/issues/1964) logger.sinceSeconds config setting inconsistent with README
+* [Issue #1955](https://github.com/CirrusByte42/ca9s/issues/1955) K9s crashes with empty resources and/or verbs in RBAC
+* [Issue #1954](https://github.com/CirrusByte42/ca9s/issues/1954) Open very slow
+* [Issue #1883](https://github.com/CirrusByte42/ca9s/issues/1883) Fix force deletion
+* [Issue #1788](https://github.com/CirrusByte42/ca9s/issues/1788) Draining nodes cannot be forced
+* [Issue #1150](https://github.com/CirrusByte42/ca9s/issues/1150) Add a persistent popup for drain failures
 
 ---
 
@@ -56,11 +56,11 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 Please give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [PR #1969](https://github.com/derailed/k9s/pull/1969) fix: Add missing help menu to gruvbox-dark skin
-* [PR #1966](https://github.com/derailed/k9s/pull/1966) fix: Show meaningful error message when kubectl exec fails
-* [PR #1965](https://github.com/derailed/k9s/pull/1965) set default sinceSeconds to 300
-* [PR #1961](https://github.com/derailed/k9s/pull/1961) feat: Add sort by pod count on node view
-* [PR #1960](https://github.com/derailed/k9s/pull/1960) [Misc] Add Nightfox-theme
+* [PR #1969](https://github.com/CirrusByte42/ca9s/pull/1969) fix: Add missing help menu to gruvbox-dark skin
+* [PR #1966](https://github.com/CirrusByte42/ca9s/pull/1966) fix: Show meaningful error message when kubectl exec fails
+* [PR #1965](https://github.com/CirrusByte42/ca9s/pull/1965) set default sinceSeconds to 300
+* [PR #1961](https://github.com/CirrusByte42/ca9s/pull/1961) feat: Add sort by pod count on node view
+* [PR #1960](https://github.com/CirrusByte42/ca9s/pull/1960) [Misc] Add Nightfox-theme
 
 ---
 

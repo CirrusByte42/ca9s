@@ -71,10 +71,10 @@ k9s:
 
 ## Resolved Issues
 
-* [Issue #1398](https://github.com/derailed/k9s/issues/1398) Pod logs containing brackets not in k9s logs output
-* [Issue #1397](https://github.com/derailed/k9s/issues/1397) Regression: k9s no longer starts in current context namespace since v0.25.12
-* [Issue #1358](https://github.com/derailed/k9s/issues/1358) Namespaces list is empty
-* [Issue #956](https://github.com/derailed/k9s/issues/956) Feature request : Default column sort (by resource view)
+* [Issue #1398](https://github.com/CirrusByte42/ca9s/issues/1398) Pod logs containing brackets not in k9s logs output
+* [Issue #1397](https://github.com/CirrusByte42/ca9s/issues/1397) Regression: k9s no longer starts in current context namespace since v0.25.12
+* [Issue #1358](https://github.com/CirrusByte42/ca9s/issues/1358) Namespaces list is empty
+* [Issue #956](https://github.com/CirrusByte42/ca9s/issues/956) Feature request : Default column sort (by resource view)
 
 ---
 

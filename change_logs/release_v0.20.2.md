@@ -27,12 +27,12 @@ Per [Raman Gupta](https://github.com/rocketraman) excellent suggestion, we've ad
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #741](https://github.com/derailed/k9s/issues/741)
-- [Issue #740](https://github.com/derailed/k9s/issues/740)
-- [Issue #739](https://github.com/derailed/k9s/issues/739)
-- [Issue #727](https://github.com/derailed/k9s/issues/727)
-- [Issue #723](https://github.com/derailed/k9s/issues/723)
-- [PR #725](https://github.com/derailed/k9s/pull/725) Big Thanks To [Soupyt](https://github.com/soupyt)!!
+- [Issue #741](https://github.com/CirrusByte42/ca9s/issues/741)
+- [Issue #740](https://github.com/CirrusByte42/ca9s/issues/740)
+- [Issue #739](https://github.com/CirrusByte42/ca9s/issues/739)
+- [Issue #727](https://github.com/CirrusByte42/ca9s/issues/727)
+- [Issue #723](https://github.com/CirrusByte42/ca9s/issues/723)
+- [PR #725](https://github.com/CirrusByte42/ca9s/pull/725) Big Thanks To [Soupyt](https://github.com/soupyt)!!
 
 ---
 

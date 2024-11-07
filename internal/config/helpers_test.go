@@ -6,7 +6,7 @@ package config_test
 import (
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config"
 	"github.com/stretchr/testify/assert"
 	v1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

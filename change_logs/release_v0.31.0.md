@@ -133,10 +133,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2434](https://github.com/derailed/k9s/issues/2434) readOnly: true in config.yaml doesnt get overriden by readOnly: false in cluster config
-* [#2430](https://github.com/derailed/k9s/issues/2430) Referencing a namespace with the name of an alias inside an alias causes infinite loop
-* [#2428](https://github.com/derailed/k9s/issues/2428) Boom!! runtime error: invalid memory address or nil pointer dereference - v0.30.8
-* [#2421](https://github.com/derailed/k9s/issues/2421) k9s/config.yaml configuration file is overwritten on launch
+* [#2434](https://github.com/CirrusByte42/ca9s/issues/2434) readOnly: true in config.yaml doesnt get overriden by readOnly: false in cluster config
+* [#2430](https://github.com/CirrusByte42/ca9s/issues/2430) Referencing a namespace with the name of an alias inside an alias causes infinite loop
+* [#2428](https://github.com/CirrusByte42/ca9s/issues/2428) Boom!! runtime error: invalid memory address or nil pointer dereference - v0.30.8
+* [#2421](https://github.com/CirrusByte42/ca9s/issues/2421) k9s/config.yaml configuration file is overwritten on launch
 
 ---
 
@@ -144,10 +144,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2433](https://github.com/derailed/k9s/pull/2433) switch contexts only when needed
-* [#2429](https://github.com/derailed/k9s/pull/2429) Reference correct configuration ENV var in README
-* [#2426](https://github.com/derailed/k9s/pull/2426) Update carvel plugin kick to shift K
-* [#2420](https://github.com/derailed/k9s/pull/2420) supports referencing envs in hotkeys
-* [#2419](https://github.com/derailed/k9s/pull/2419) fix typo
+* [#2433](https://github.com/CirrusByte42/ca9s/pull/2433) switch contexts only when needed
+* [#2429](https://github.com/CirrusByte42/ca9s/pull/2429) Reference correct configuration ENV var in README
+* [#2426](https://github.com/CirrusByte42/ca9s/pull/2426) Update carvel plugin kick to shift K
+* [#2420](https://github.com/CirrusByte42/ca9s/pull/2420) supports referencing envs in hotkeys
+* [#2419](https://github.com/CirrusByte42/ca9s/pull/2419) fix typo
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2024 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

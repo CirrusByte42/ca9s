@@ -22,19 +22,19 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
   Secrets can now be base64 decoded to view their actual content.
 
-  In the secret view you can use `ctrl-x` to decode a selected secret. [Feature #123](https://github.com/derailed/k9s/issues/123)
+  In the secret view you can use `ctrl-x` to decode a selected secret. [Feature #123](https://github.com/CirrusByte42/ca9s/issues/123)
 
 ### o YAML Highlighter
 
   Describe and YAML commands will now yield syntax highlighted view.
-  [Feature #142](https://github.com/derailed/k9s/issues/142)
+  [Feature #142](https://github.com/CirrusByte42/ca9s/issues/142)
 
 ---
 
 ## Resolved Bugs
 
-+ Sort by age busted [Issue #145](https://github.com/derailed/k9s/issues/145)
-+ Logs not escaped correctly [Issue #137](https://github.com/derailed/k9s/issues/137)
++ Sort by age busted [Issue #145](https://github.com/CirrusByte42/ca9s/issues/145)
++ Logs not escaped correctly [Issue #137](https://github.com/CirrusByte42/ca9s/issues/137)
 
 ---
 

@@ -20,7 +20,7 @@ Doh! Hot fix on the way...
 
 ## Resolved Issues
 
-* [Issue #1384](https://github.com/derailed/k9s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
+* [Issue #1384](https://github.com/CirrusByte42/ca9s/issues/1384) Leaving Logs View Causes Crash: "panic: send on closed channel"
 
 ---
 

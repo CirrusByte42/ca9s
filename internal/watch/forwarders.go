@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/port"
+	"github.com/CirrusByte42/ca9s/internal/port"
 	"github.com/rs/zerolog/log"
 	"k8s.io/client-go/tools/portforward"
 )

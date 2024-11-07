@@ -18,13 +18,13 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1163](https://github.com/derailed/k9s/issues/1163) Color for autocomplete text
-* [Issue #1153](https://github.com/derailed/k9s/issues/1153) Crash when scaling a deployment with a custom view
-* [Issue #1151](https://github.com/derailed/k9s/issues/1151) k9s does not use current namespace of current context
-* [Issue #1140](https://github.com/derailed/k9s/issues/1140) Can no longer trigger cronjobs manually
-* [Issue #1137](https://github.com/derailed/k9s/issues/1137) Unreadable container name
-* [Issue #1132](https://github.com/derailed/k9s/issues/1132) Searching for regex not always working
-* [Issue #1131](https://github.com/derailed/k9s/issues/1131) Changed release filenames starting k9s v0.24.10
+* [Issue #1163](https://github.com/CirrusByte42/ca9s/issues/1163) Color for autocomplete text
+* [Issue #1153](https://github.com/CirrusByte42/ca9s/issues/1153) Crash when scaling a deployment with a custom view
+* [Issue #1151](https://github.com/CirrusByte42/ca9s/issues/1151) k9s does not use current namespace of current context
+* [Issue #1140](https://github.com/CirrusByte42/ca9s/issues/1140) Can no longer trigger cronjobs manually
+* [Issue #1137](https://github.com/CirrusByte42/ca9s/issues/1137) Unreadable container name
+* [Issue #1132](https://github.com/CirrusByte42/ca9s/issues/1132) Searching for regex not always working
+* [Issue #1131](https://github.com/CirrusByte42/ca9s/issues/1131) Changed release filenames starting k9s v0.24.10
 
 ---
 

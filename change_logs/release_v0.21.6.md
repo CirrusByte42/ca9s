@@ -47,7 +47,7 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #795](https://github.com/derailed/k9s/issues/795)
+* [Issue #795](https://github.com/CirrusByte42/ca9s/issues/795)
 
 ---
 

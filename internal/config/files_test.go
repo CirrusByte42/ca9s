@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
 	"github.com/adrg/xdg"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/config/data"
 	"github.com/stretchr/testify/assert"
 )
 

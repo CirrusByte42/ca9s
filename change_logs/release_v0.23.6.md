@@ -32,8 +32,8 @@ Thank you all for your understanding, kindness and support!!
 
 ## Resolved Issues/Features
 
-* [Issue #929](https://github.com/derailed/k9s/issues/929) Crash on startup with no metrics-server detected
-* [Issue #926](https://github.com/derailed/k9s/issues/926) JSON Do you have plans to apply
+* [Issue #929](https://github.com/CirrusByte42/ca9s/issues/929) Crash on startup with no metrics-server detected
+* [Issue #926](https://github.com/CirrusByte42/ca9s/issues/926) JSON Do you have plans to apply
 
 ## Resolved PRs
 

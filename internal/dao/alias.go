@@ -10,11 +10,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/render"
-	"github.com/derailed/k9s/internal/view/cmd"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/view/cmd"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

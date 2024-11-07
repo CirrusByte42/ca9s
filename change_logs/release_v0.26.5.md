@@ -22,8 +22,8 @@ Thank you!!
 
 ## Resolved Issues
 
-* [Issue #1742](https://github.com/derailed/k9s/issues/1770) copy to clipboard throw panic error
-* [Issue #1768](https://github.com/derailed/k9s/issues/1768) build fails due to new clipboard package
+* [Issue #1742](https://github.com/CirrusByte42/ca9s/issues/1770) copy to clipboard throw panic error
+* [Issue #1768](https://github.com/CirrusByte42/ca9s/issues/1768) build fails due to new clipboard package
 
 ---
 

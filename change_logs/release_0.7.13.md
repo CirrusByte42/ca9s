@@ -18,9 +18,9 @@ Maintenance release bug fixes
 
 ## Resolved Bugs/Features
 
-+ [Issue #266](https://github.com/derailed/k9s/issues/266)
-+ [Issue #262](https://github.com/derailed/k9s/issues/262)
-+ [Issue #246](https://github.com/derailed/k9s/issues/246) Thank you @mcristina422!
++ [Issue #266](https://github.com/CirrusByte42/ca9s/issues/266)
++ [Issue #262](https://github.com/CirrusByte42/ca9s/issues/262)
++ [Issue #246](https://github.com/CirrusByte42/ca9s/issues/246) Thank you @mcristina422!
 
 ---
 

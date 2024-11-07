@@ -30,5 +30,5 @@ rev and see if we're happier with some of the fixes!
 ---
 ## Resolved Bugs
 
-+ [Issue #23](https://github.com/derailed/k9s/issues/23)
-+ [Issue #19](https://github.com/derailed/k9s/issues/19)
++ [Issue #23](https://github.com/CirrusByte42/ca9s/issues/23)
++ [Issue #19](https://github.com/CirrusByte42/ca9s/issues/19)

@@ -16,13 +16,13 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1111](https://github.com/derailed/k9s/issues/1111) -A switch doesn't work as advertised
-* [Issue #1109](https://github.com/derailed/k9s/issues/1109) 0.24.8 edit needs an extra keystroke to process. (Crossing fingers AND toes!!)
-* [Issue #1104](https://github.com/derailed/k9s/issues/1104) Configure args for shellPod
+* [Issue #1111](https://github.com/CirrusByte42/ca9s/issues/1111) -A switch doesn't work as advertised
+* [Issue #1109](https://github.com/CirrusByte42/ca9s/issues/1109) 0.24.8 edit needs an extra keystroke to process. (Crossing fingers AND toes!!)
+* [Issue #1104](https://github.com/CirrusByte42/ca9s/issues/1104) Configure args for shellPod
 
 ## Resolved PRs
 
-* [PR #1103](https://github.com/derailed/k9s/pull/1103) Dynamically load style for help. Big Thanks To [Louis Garman](https://github.com/leg100)
+* [PR #1103](https://github.com/CirrusByte42/ca9s/pull/1103) Dynamically load style for help. Big Thanks To [Louis Garman](https://github.com/leg100)
 
 ---
 

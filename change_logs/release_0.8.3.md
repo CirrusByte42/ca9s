@@ -28,13 +28,13 @@ We've beefed up CRD support to allow users to navigate to the CRD instances view
 
 ## Resolved Bugs/Features
 
-+ CRD Navigation [Issue #295](https://github.com/derailed/k9s/issues/295)
-+ Terminal colors [Issue #294](https://github.com/derailed/k9s/issues/294)
-+ Help menu typo [Issue #291](https://github.com/derailed/k9s/issues/291)
-+ NetworkPolicy Support [Issue #289](https://github.com/derailed/k9s/issues/289)
-+ Scaling replicas start count [Issue #288](https://github.com/derailed/k9s/issues/288)
-+ CLI command arg support [Issue #283](https://github.com/derailed/k9s/issues/283)
-+ YAML screen dump support [Issue #275](https://github.com/derailed/k9s/issues/275)
++ CRD Navigation [Issue #295](https://github.com/CirrusByte42/ca9s/issues/295)
++ Terminal colors [Issue #294](https://github.com/CirrusByte42/ca9s/issues/294)
++ Help menu typo [Issue #291](https://github.com/CirrusByte42/ca9s/issues/291)
++ NetworkPolicy Support [Issue #289](https://github.com/CirrusByte42/ca9s/issues/289)
++ Scaling replicas start count [Issue #288](https://github.com/CirrusByte42/ca9s/issues/288)
++ CLI command arg support [Issue #283](https://github.com/CirrusByte42/ca9s/issues/283)
++ YAML screen dump support [Issue #275](https://github.com/CirrusByte42/ca9s/issues/275)
 
 ---
 

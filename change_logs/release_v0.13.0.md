@@ -67,10 +67,10 @@ It turns out the 'h' to toggle header was a bad move as it is use by the view na
 
 ## Resolved Bugs/Features
 
-* [Issue #494](https://github.com/derailed/k9s/issues/494)
-* [Issue #490](https://github.com/derailed/k9s/issues/490)
-* [Issue #488](https://github.com/derailed/k9s/issues/488)
-* [Issue #486](https://github.com/derailed/k9s/issues/486)
+* [Issue #494](https://github.com/CirrusByte42/ca9s/issues/494)
+* [Issue #490](https://github.com/CirrusByte42/ca9s/issues/490)
+* [Issue #488](https://github.com/CirrusByte42/ca9s/issues/488)
+* [Issue #486](https://github.com/CirrusByte42/ca9s/issues/486)
 
 ---
 

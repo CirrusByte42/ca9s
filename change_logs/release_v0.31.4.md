@@ -43,7 +43,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2463](https://github.com/derailed/k9s/issues/2463) v0.31.3 (Linux_amd64) gives runtime error on startup
+* [#2463](https://github.com/CirrusByte42/ca9s/issues/2463) v0.31.3 (Linux_amd64) gives runtime error on startup
 
 ---
 

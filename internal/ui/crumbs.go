@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/model"
 	"github.com/derailed/tview"
 )
 

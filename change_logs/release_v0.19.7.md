@@ -16,11 +16,11 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #726](https://github.com/derailed/k9s/issues/726)
-* [Issue #724](https://github.com/derailed/k9s/issues/724)
-* [Issue #722](https://github.com/derailed/k9s/issues/722)
-* [Issue #721](https://github.com/derailed/k9s/issues/721)
-* [Issue #720](https://github.com/derailed/k9s/issues/720)
+* [Issue #726](https://github.com/CirrusByte42/ca9s/issues/726)
+* [Issue #724](https://github.com/CirrusByte42/ca9s/issues/724)
+* [Issue #722](https://github.com/CirrusByte42/ca9s/issues/722)
+* [Issue #721](https://github.com/CirrusByte42/ca9s/issues/721)
+* [Issue #720](https://github.com/CirrusByte42/ca9s/issues/720)
 
 ---
 

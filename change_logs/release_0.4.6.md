@@ -22,8 +22,8 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ Node overview column ordering [Issue #153](https://github.com/derailed/k9s/issues/153)
-+ Changed foreground color on container pick list [Issue #132](https://github.com/derailed/k9s/issues/132)
++ Node overview column ordering [Issue #153](https://github.com/CirrusByte42/ca9s/issues/153)
++ Changed foreground color on container pick list [Issue #132](https://github.com/CirrusByte42/ca9s/issues/132)
 
 ---
 

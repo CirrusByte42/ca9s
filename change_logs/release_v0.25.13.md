@@ -35,11 +35,11 @@ Thank you!!
 
 ## Resolved Issues
 
-* [Issue #1382](https://github.com/derailed/k9s/issues/1382) Watcher failed for screendumps
-* [Issue #1381](https://github.com/derailed/k9s/issues/1381) --request-timeout affects logs streaming
-* [Issue #1380](https://github.com/derailed/k9s/issues/1380) :pulse returning error: expecting a TableRow but got *v1.Table
-* [Issue #1376](https://github.com/derailed/k9s/issues/1376) Events are not sorted correctly by dates - with feelings...
-* [Issue #1291](https://github.com/derailed/k9s/issues/1291) K9s do not show any error when is unable to get logs, just do not show anything.
+* [Issue #1382](https://github.com/CirrusByte42/ca9s/issues/1382) Watcher failed for screendumps
+* [Issue #1381](https://github.com/CirrusByte42/ca9s/issues/1381) --request-timeout affects logs streaming
+* [Issue #1380](https://github.com/CirrusByte42/ca9s/issues/1380) :pulse returning error: expecting a TableRow but got *v1.Table
+* [Issue #1376](https://github.com/CirrusByte42/ca9s/issues/1376) Events are not sorted correctly by dates - with feelings...
+* [Issue #1291](https://github.com/CirrusByte42/ca9s/issues/1291) K9s do not show any error when is unable to get logs, just do not show anything.
 
 ---
 

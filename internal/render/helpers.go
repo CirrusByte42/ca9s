@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/vul"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/vul"
 	"github.com/derailed/tview"
 	"github.com/mattn/go-runewidth"
 	"github.com/rs/zerolog/log"

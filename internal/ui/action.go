@@ -7,7 +7,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/derailed/k9s/internal/model"
+	"github.com/CirrusByte42/ca9s/internal/model"
 	"github.com/derailed/tcell/v2"
 	"github.com/rs/zerolog/log"
 )

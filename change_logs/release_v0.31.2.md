@@ -42,9 +42,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2449](https://github.com/derailed/k9s/issues/2449) [Bug]: views.yaml columns not respected on startup
-* [#2448](https://github.com/derailed/k9s/issues/2448) Missing '.thresholds' in config.yaml result in 'assignment to entry in nil map'
-* [#2446](https://github.com/derailed/k9s/issues/2446) Context Switch unreliable/not working
+* [#2449](https://github.com/CirrusByte42/ca9s/issues/2449) [Bug]: views.yaml columns not respected on startup
+* [#2448](https://github.com/CirrusByte42/ca9s/issues/2448) Missing '.thresholds' in config.yaml result in 'assignment to entry in nil map'
+* [#2446](https://github.com/CirrusByte42/ca9s/issues/2446) Context Switch unreliable/not working
 
 ---
 

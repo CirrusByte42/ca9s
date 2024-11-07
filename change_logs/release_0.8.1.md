@@ -45,10 +45,10 @@ Some folks correctly pointed out the issue with the `Alt-XXX`. Totally my bad as
 
 ## Resolved Bugs/Features
 
-+ [Issue #286](https://github.com/derailed/k9s/issues/286)
-+ [Issue #285](https://github.com/derailed/k9s/issues/285)
-+ [Issue #270](https://github.com/derailed/k9s/issues/270)
-+ [Issue #223](https://github.com/derailed/k9s/issues/223)
++ [Issue #286](https://github.com/CirrusByte42/ca9s/issues/286)
++ [Issue #285](https://github.com/CirrusByte42/ca9s/issues/285)
++ [Issue #270](https://github.com/CirrusByte42/ca9s/issues/270)
++ [Issue #223](https://github.com/CirrusByte42/ca9s/issues/223)
 
 ---
 

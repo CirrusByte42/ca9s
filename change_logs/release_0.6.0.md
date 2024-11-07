@@ -29,10 +29,10 @@ please report any weirdness. Thank you!!
 
 ## Resolved Bugs
 
-+ [Issue #169](https://github.com/derailed/k9s/issues/169)
-+ [Issue #171](https://github.com/derailed/k9s/issues/171)
-+ [Issue #172](https://github.com/derailed/k9s/issues/172)
-+ [Issue #175](https://github.com/derailed/k9s/issues/175)
++ [Issue #169](https://github.com/CirrusByte42/ca9s/issues/169)
++ [Issue #171](https://github.com/CirrusByte42/ca9s/issues/171)
++ [Issue #172](https://github.com/CirrusByte42/ca9s/issues/172)
++ [Issue #175](https://github.com/CirrusByte42/ca9s/issues/175)
 
 ---
 

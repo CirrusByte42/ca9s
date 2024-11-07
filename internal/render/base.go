@@ -4,7 +4,7 @@
 package render
 
 import (
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/CirrusByte42/ca9s/internal/model1"
 )
 
 // DecoratorFunc decorates a string.

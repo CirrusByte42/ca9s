@@ -20,7 +20,7 @@ Arg.. Must get m'o sleep!!
 
 ## Resolved Issues/Features
 
-* [Issue #889](https://github.com/derailed/k9s/issues/889) Disable readOnly config
+* [Issue #889](https://github.com/CirrusByte42/ca9s/issues/889) Disable readOnly config
 
 ## Resolved PRs
 

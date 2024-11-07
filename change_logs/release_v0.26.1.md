@@ -43,19 +43,19 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1684](https://github.com/derailed/k9s/issues/1684) Crash when viewing logs index out of range [2] with length 2
-* [Issue #1680](https://github.com/derailed/k9s/issues/1680) Changing to pod kill grace period from 0 to 1
-* [Issue #1661](https://github.com/derailed/k9s/issues/1661) ClusterRole with wrong privilege list display
-* [Issue #1677](https://github.com/derailed/k9s/issues/1677) UsedBy function on priorityclass
-* [Issue #1657](https://github.com/derailed/k9s/issues/1657) Cannot delete port forwarding created inside k9s
-* [Issue #1420](https://github.com/derailed/k9s/issues/1420) Unable to delete port forward
+* [Issue #1684](https://github.com/CirrusByte42/ca9s/issues/1684) Crash when viewing logs index out of range [2] with length 2
+* [Issue #1680](https://github.com/CirrusByte42/ca9s/issues/1680) Changing to pod kill grace period from 0 to 1
+* [Issue #1661](https://github.com/CirrusByte42/ca9s/issues/1661) ClusterRole with wrong privilege list display
+* [Issue #1677](https://github.com/CirrusByte42/ca9s/issues/1677) UsedBy function on priorityclass
+* [Issue #1657](https://github.com/CirrusByte42/ca9s/issues/1657) Cannot delete port forwarding created inside k9s
+* [Issue #1420](https://github.com/CirrusByte42/ca9s/issues/1420) Unable to delete port forward
 
 ## Resolved PR
 
-* [PR #1682](https://github.com/derailed/k9s/pull/1682) Fix: persistentvolumes not showing terminating status.
-* [PR #1672](https://github.com/derailed/k9s/pull/1672) Feat: allow to disable ctrl-c behavior
-* [PR #1666](https://github.com/derailed/k9s/pull/1666) Feat: show usedBy for priorityclasses
-* [PR #1668](https://github.com/derailed/k9s/pull/1668) Fix: PF delete with no container
+* [PR #1682](https://github.com/CirrusByte42/ca9s/pull/1682) Fix: persistentvolumes not showing terminating status.
+* [PR #1672](https://github.com/CirrusByte42/ca9s/pull/1672) Feat: allow to disable ctrl-c behavior
+* [PR #1666](https://github.com/CirrusByte42/ca9s/pull/1666) Feat: show usedBy for priorityclasses
+* [PR #1668](https://github.com/CirrusByte42/ca9s/pull/1668) Fix: PF delete with no container
 
 ---
 

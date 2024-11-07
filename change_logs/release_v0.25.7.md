@@ -18,7 +18,7 @@ Happy (`Wild`) Turkey Day Everyone!!
 
 ## Resolved Issues
 
-* [Issue #1341](https://github.com/derailed/k9s/issues/1341) Colored container logs are not displayed correctly.
+* [Issue #1341](https://github.com/CirrusByte42/ca9s/issues/1341) Colored container logs are not displayed correctly.
 
 ---
 

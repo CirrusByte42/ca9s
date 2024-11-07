@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/derailed/k9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/render"
 	"k8s.io/apimachinery/pkg/api/resource"
 )
 

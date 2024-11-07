@@ -114,34 +114,34 @@ Thank you all for your being fans and supporting K9s!!
 
 ## Resolved Issues/Features
 
-* [Issue #906](https://github.com/derailed/k9s/issues/906) Print resources in pod view
-* [Issue #903](https://github.com/derailed/k9s/issues/903) Slow down reconnection rate on auth failures
-* [Issue #901](https://github.com/derailed/k9s/issues/901) Logs page for any pod/container shows Waiting for logs...
-* [Issue #900](https://github.com/derailed/k9s/issues/900) Support sort by pending status
-* [Issue #895](https://github.com/derailed/k9s/issues/895) Wrong highlight position when filtering logs
-* [Issue #892](https://github.com/derailed/k9s/issues/892) tacit kustomize & kpt support
-* [Issue #889](https://github.com/derailed/k9s/issues/889) Disable read only config via command line flag
-* [Issue #887](https://github.com/derailed/k9s/issues/887) Ability to call out a separate program to parse/filter logs
-* [Issue #886](https://github.com/derailed/k9s/issues/886) Full screen mode or remove borders in YAML view for easy copy/paste
-* [Issue #884](https://github.com/derailed/k9s/issues/884) Refresh for describe & yaml view
-* [Issue #883](https://github.com/derailed/k9s/issues/883) View logs quickly scrolls through entire logs when initially loading
-* [Issue #875](https://github.com/derailed/k9s/issues/875) Lazy filter
-* [Issue #848](https://github.com/derailed/k9s/issues/848) Support an inverse operator on filtered search
-* [Issue #820](https://github.com/derailed/k9s/issues/820) Log file spammed despite K9s not running
-* [Issue #794](https://github.com/derailed/k9s/issues/794) Events view
+* [Issue #906](https://github.com/CirrusByte42/ca9s/issues/906) Print resources in pod view
+* [Issue #903](https://github.com/CirrusByte42/ca9s/issues/903) Slow down reconnection rate on auth failures
+* [Issue #901](https://github.com/CirrusByte42/ca9s/issues/901) Logs page for any pod/container shows Waiting for logs...
+* [Issue #900](https://github.com/CirrusByte42/ca9s/issues/900) Support sort by pending status
+* [Issue #895](https://github.com/CirrusByte42/ca9s/issues/895) Wrong highlight position when filtering logs
+* [Issue #892](https://github.com/CirrusByte42/ca9s/issues/892) tacit kustomize & kpt support
+* [Issue #889](https://github.com/CirrusByte42/ca9s/issues/889) Disable read only config via command line flag
+* [Issue #887](https://github.com/CirrusByte42/ca9s/issues/887) Ability to call out a separate program to parse/filter logs
+* [Issue #886](https://github.com/CirrusByte42/ca9s/issues/886) Full screen mode or remove borders in YAML view for easy copy/paste
+* [Issue #884](https://github.com/CirrusByte42/ca9s/issues/884) Refresh for describe & yaml view
+* [Issue #883](https://github.com/CirrusByte42/ca9s/issues/883) View logs quickly scrolls through entire logs when initially loading
+* [Issue #875](https://github.com/CirrusByte42/ca9s/issues/875) Lazy filter
+* [Issue #848](https://github.com/CirrusByte42/ca9s/issues/848) Support an inverse operator on filtered search
+* [Issue #820](https://github.com/CirrusByte42/ca9s/issues/820) Log file spammed despite K9s not running
+* [Issue #794](https://github.com/CirrusByte42/ca9s/issues/794) Events view
 
 ## Resolved PRs
 
-* [PR #909](https://github.com/derailed/k9s/pull/909) Add support for inverse filtering
-* [PR #908](https://github.com/derailed/k9s/pull/908) Remove trailing delta from the scale dialog when replicas are in flux
-* [PR #907](https://github.com/derailed/k9s/pull/907) Improve docs on sinceSeconds logger option
-* [PR #904](https://github.com/derailed/k9s/pull/904) PVC `UsedBy` list irrelevant statefulsets
-* [PR #898](https://github.com/derailed/k9s/pull/898) Use config.CallTimeout in APIClient
-* [PR #897](https://github.com/derailed/k9s/pull/897) Use DefaultColorer for aliases rendering
-* [PR #896](https://github.com/derailed/k9s/pull/896) Allow remove crumbs
-* [PR #894](https://github.com/derailed/k9s/pull/894) Execute plugins and pass context
-* [PR #891](https://github.com/derailed/k9s/pull/891) Add command to get the latest stable kubectl version and support for KUBECTL_VERSION as Dockerfile ARG
-* [PR #847](https://github.com/derailed/k9s/pull/847) Add ability to set container images
+* [PR #909](https://github.com/CirrusByte42/ca9s/pull/909) Add support for inverse filtering
+* [PR #908](https://github.com/CirrusByte42/ca9s/pull/908) Remove trailing delta from the scale dialog when replicas are in flux
+* [PR #907](https://github.com/CirrusByte42/ca9s/pull/907) Improve docs on sinceSeconds logger option
+* [PR #904](https://github.com/CirrusByte42/ca9s/pull/904) PVC `UsedBy` list irrelevant statefulsets
+* [PR #898](https://github.com/CirrusByte42/ca9s/pull/898) Use config.CallTimeout in APIClient
+* [PR #897](https://github.com/CirrusByte42/ca9s/pull/897) Use DefaultColorer for aliases rendering
+* [PR #896](https://github.com/CirrusByte42/ca9s/pull/896) Allow remove crumbs
+* [PR #894](https://github.com/CirrusByte42/ca9s/pull/894) Execute plugins and pass context
+* [PR #891](https://github.com/CirrusByte42/ca9s/pull/891) Add command to get the latest stable kubectl version and support for KUBECTL_VERSION as Dockerfile ARG
+* [PR #847](https://github.com/CirrusByte42/ca9s/pull/847) Add ability to set container images
 
 ---
 

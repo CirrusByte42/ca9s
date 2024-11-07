@@ -7,9 +7,9 @@ import (
 	"context"
 	"errors"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/render"
 	"k8s.io/apimachinery/pkg/runtime"
 )
 

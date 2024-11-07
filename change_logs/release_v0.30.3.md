@@ -36,9 +36,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2379](https://github.com/derailed/k9s/issues/2379) Filtering with equal sign (=) does not work in 0.30.X
-* [#2378](https://github.com/derailed/k9s/issues/2378) Logs directory not created in the k9s config/home dir 0.30.1
-* [#2377](https://github.com/derailed/k9s/issues/2377) Opening AWS EKS contexts create two directories per cluster 0.30.1
+* [#2379](https://github.com/CirrusByte42/ca9s/issues/2379) Filtering with equal sign (=) does not work in 0.30.X
+* [#2378](https://github.com/CirrusByte42/ca9s/issues/2378) Logs directory not created in the k9s config/home dir 0.30.1
+* [#2377](https://github.com/CirrusByte42/ca9s/issues/2377) Opening AWS EKS contexts create two directories per cluster 0.30.1
 
 ---
 

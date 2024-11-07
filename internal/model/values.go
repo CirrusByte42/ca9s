@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/dao"
 	backoff "github.com/cenkalti/backoff/v4"
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
 	"github.com/rs/zerolog/log"
 	"github.com/sahilm/fuzzy"
 )

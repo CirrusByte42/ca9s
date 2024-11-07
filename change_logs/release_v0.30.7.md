@@ -34,9 +34,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2414](https://github.com/derailed/k9s/issues/2414) View pods with context filter, along with namespace filter, prompts an error if the namespace exists only in the desired context
-* [#2413](https://github.com/derailed/k9s/issues/2413) Typing apply -f in command bar causes k9s to crash
-* [#2407](https://github.com/derailed/k9s/issues/2407) Long-running background plugins block UI rendering
+* [#2414](https://github.com/CirrusByte42/ca9s/issues/2414) View pods with context filter, along with namespace filter, prompts an error if the namespace exists only in the desired context
+* [#2413](https://github.com/CirrusByte42/ca9s/issues/2413) Typing apply -f in command bar causes k9s to crash
+* [#2407](https://github.com/CirrusByte42/ca9s/issues/2407) Long-running background plugins block UI rendering
 
 ---
 
@@ -44,8 +44,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2415](https://github.com/derailed/k9s/pull/2415) Add boundary check for args parser
-* [#2411](https://github.com/derailed/k9s/pull/2411) Use dash as a standard word separator in skin names
+* [#2415](https://github.com/CirrusByte42/ca9s/pull/2415) Add boundary check for args parser
+* [#2411](https://github.com/CirrusByte42/ca9s/pull/2411) Use dash as a standard word separator in skin names
 
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

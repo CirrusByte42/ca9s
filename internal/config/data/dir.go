@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/derailed/k9s/internal/config/json"
+	"github.com/CirrusByte42/ca9s/internal/config/json"
 	"github.com/rs/zerolog/log"
 	"gopkg.in/yaml.v2"
 	"k8s.io/client-go/tools/clientcmd/api"

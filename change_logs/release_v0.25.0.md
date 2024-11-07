@@ -89,32 +89,32 @@ The annotation value must specify a container to forward to as well as a local p
 
 ## Resolved Issues
 
-* [Issue #1299](https://github.com/derailed/k9s/issues/1299) After upgrade to 0.24.15 sorting shortcuts not working
-* [Issue #1298](https://github.com/derailed/k9s/issues/1298) Install K9s through go get reporting ambiguous import error
-* [Issue #1296](https://github.com/derailed/k9s/issues/1296) Crash when clicking between border of K9s and terminal pane
-* [Issue #1289](https://github.com/derailed/k9s/issues/1289) Homebrew calling bottle :unneeded is deprecated! There is no replacement
-* [Issue #1273](https://github.com/derailed/k9s/issues/1273) Not loading config from correct default location when XDG_CONFIG_HOME is unset
-* [Issue #1268](https://github.com/derailed/k9s/issues/1268) Age sorting wrong for years
-* [Issue #1258](https://github.com/derailed/k9s/issues/1258) Configurable or recent use based port-forward
-* [Issue #1257](https://github.com/derailed/k9s/issues/1257) Why is the latest chocolatey on 0.24.10
-* [Issue #1243](https://github.com/derailed/k9s/issues/1243) Port forward fails in kind on windows 10
+* [Issue #1299](https://github.com/CirrusByte42/ca9s/issues/1299) After upgrade to 0.24.15 sorting shortcuts not working
+* [Issue #1298](https://github.com/CirrusByte42/ca9s/issues/1298) Install K9s through go get reporting ambiguous import error
+* [Issue #1296](https://github.com/CirrusByte42/ca9s/issues/1296) Crash when clicking between border of K9s and terminal pane
+* [Issue #1289](https://github.com/CirrusByte42/ca9s/issues/1289) Homebrew calling bottle :unneeded is deprecated! There is no replacement
+* [Issue #1273](https://github.com/CirrusByte42/ca9s/issues/1273) Not loading config from correct default location when XDG_CONFIG_HOME is unset
+* [Issue #1268](https://github.com/CirrusByte42/ca9s/issues/1268) Age sorting wrong for years
+* [Issue #1258](https://github.com/CirrusByte42/ca9s/issues/1258) Configurable or recent use based port-forward
+* [Issue #1257](https://github.com/CirrusByte42/ca9s/issues/1257) Why is the latest chocolatey on 0.24.10
+* [Issue #1243](https://github.com/CirrusByte42/ca9s/issues/1243) Port forward fails in kind on windows 10
 
 ---
 
 ## PRs
 
-* [PR #1300](https://github.com/derailed/k9s/pull/1300) move from io/ioutil to io/os packages
-* [PR #1287](https://github.com/derailed/k9s/pull/1287) Add missing styles to kiss
-* [PR #1286](https://github.com/derailed/k9s/pull/1286) Some small color modifications
-* [PR #1284](https://github.com/derailed/k9s/pull/1284) Fix a small typo which comes from cluster view info
-* [PR #1271](https://github.com/derailed/k9s/pull/1271) Removed cursor colors that are too light to read
-* [PR #1266](https://github.com/derailed/k9s/pull/1266) Skin to preserve your terminal session background color
-* [PR #1264](https://github.com/derailed/k9s/pull/1205) Adding note on popeye config
-* [PR #1261](https://github.com/derailed/k9s/pull/1261) Blurry logo
-* [PR #1250](https://github.com/derailed/k9s/pull/1250) Gruvbox dark skin
-* [PR #1249](https://github.com/derailed/k9s/pull/1249) Node shell pod tolerate all taints
-* [PR #1232](https://github.com/derailed/k9s/pull/1232) Add red skin for production env
-* [PR #1227](https://github.com/derailed/k9s/pull/1227) Add abbreviation ReadWriteOncePod PV access mode
+* [PR #1300](https://github.com/CirrusByte42/ca9s/pull/1300) move from io/ioutil to io/os packages
+* [PR #1287](https://github.com/CirrusByte42/ca9s/pull/1287) Add missing styles to kiss
+* [PR #1286](https://github.com/CirrusByte42/ca9s/pull/1286) Some small color modifications
+* [PR #1284](https://github.com/CirrusByte42/ca9s/pull/1284) Fix a small typo which comes from cluster view info
+* [PR #1271](https://github.com/CirrusByte42/ca9s/pull/1271) Removed cursor colors that are too light to read
+* [PR #1266](https://github.com/CirrusByte42/ca9s/pull/1266) Skin to preserve your terminal session background color
+* [PR #1264](https://github.com/CirrusByte42/ca9s/pull/1205) Adding note on popeye config
+* [PR #1261](https://github.com/CirrusByte42/ca9s/pull/1261) Blurry logo
+* [PR #1250](https://github.com/CirrusByte42/ca9s/pull/1250) Gruvbox dark skin
+* [PR #1249](https://github.com/CirrusByte42/ca9s/pull/1249) Node shell pod tolerate all taints
+* [PR #1232](https://github.com/CirrusByte42/ca9s/pull/1232) Add red skin for production env
+* [PR #1227](https://github.com/CirrusByte42/ca9s/pull/1227) Add abbreviation ReadWriteOncePod PV access mode
 
 ---
 

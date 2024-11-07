@@ -10,11 +10,11 @@ import (
 	"path"
 	"strings"
 
-	"github.com/derailed/k9s/internal"
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/config/data"
-	"github.com/derailed/k9s/internal/ui"
-	"github.com/derailed/k9s/internal/ui/dialog"
+	"github.com/CirrusByte42/ca9s/internal"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/config/data"
+	"github.com/CirrusByte42/ca9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/ui/dialog"
 	"github.com/derailed/tcell/v2"
 )
 

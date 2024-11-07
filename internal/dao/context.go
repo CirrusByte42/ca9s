@@ -6,8 +6,8 @@ package dao
 import (
 	"context"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/render"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/runtime"
 )

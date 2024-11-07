@@ -58,8 +58,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2476](https://github.com/derailed/k9s/issues/2476) Pod's are not displayed for the selected namespace. Hopefully!
-* [#2471](https://github.com/derailed/k9s/issues/2471) Shell autocomplete functions do not work correctly
+* [#2476](https://github.com/CirrusByte42/ca9s/issues/2476) Pod's are not displayed for the selected namespace. Hopefully!
+* [#2471](https://github.com/CirrusByte42/ca9s/issues/2471) Shell autocomplete functions do not work correctly
 
 ---
 
@@ -67,8 +67,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2480](https://github.com/derailed/k9s/pull/2480) Adding system arch to nodes view
-* [#2477](https://github.com/derailed/k9s/pull/2477) Shell autocomplete for k8s flags
+* [#2480](https://github.com/CirrusByte42/ca9s/pull/2480) Adding system arch to nodes view
+* [#2477](https://github.com/CirrusByte42/ca9s/pull/2477) Shell autocomplete for k8s flags
 
 ---
 

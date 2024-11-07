@@ -35,7 +35,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2584](https://github.com/derailed/k9s/issues/2584) Transfer of file doesn't detect corruption (with feelings!)
+* [#2584](https://github.com/CirrusByte42/ca9s/issues/2584) Transfer of file doesn't detect corruption (with feelings!)
 
 ---
 

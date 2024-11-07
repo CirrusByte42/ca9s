@@ -16,8 +16,8 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1186](https://github.com/derailed/k9s/issues/1186) Viewing previous logs does not work
-* [Issue #1167](https://github.com/derailed/k9s/issues/1167) Cronjob trigger busted with feelings!
+* [Issue #1186](https://github.com/CirrusByte42/ca9s/issues/1186) Viewing previous logs does not work
+* [Issue #1167](https://github.com/CirrusByte42/ca9s/issues/1167) Cronjob trigger busted with feelings!
 
 ---
 

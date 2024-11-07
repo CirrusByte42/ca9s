@@ -24,11 +24,11 @@ The resource delete dialog was updated to provide affordance for force and casca
 
 ## Resolved Bugs/Features
 
-+ [Feature #193](https://github.com/derailed/k9s/issues/193)
-+ [Issue #205](https://github.com/derailed/k9s/issues/205)
-+ [Issue #212](https://github.com/derailed/k9s/issues/212)
-+ [Issue #215](https://github.com/derailed/k9s/issues/215)
-+ [Issue #220](https://github.com/derailed/k9s/issues/220)
++ [Feature #193](https://github.com/CirrusByte42/ca9s/issues/193)
++ [Issue #205](https://github.com/CirrusByte42/ca9s/issues/205)
++ [Issue #212](https://github.com/CirrusByte42/ca9s/issues/212)
++ [Issue #215](https://github.com/CirrusByte42/ca9s/issues/215)
++ [Issue #220](https://github.com/CirrusByte42/ca9s/issues/220)
 
 
 ---

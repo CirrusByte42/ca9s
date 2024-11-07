@@ -23,8 +23,8 @@ Thank you!!
 
 ## Resolved Issues (Wishfully...)
 
-* [Issue #1690](https://github.com/derailed/k9s/issues/1690) 0.26.1 stuck after exit from container shell, panels refreshed but arrow keys not works windows 10.
-* [Issue #1673](https://github.com/derailed/k9s/issues/1673) Screen goes blank after existing shell while running k9s on M1
+* [Issue #1690](https://github.com/CirrusByte42/ca9s/issues/1690) 0.26.1 stuck after exit from container shell, panels refreshed but arrow keys not works windows 10.
+* [Issue #1673](https://github.com/CirrusByte42/ca9s/issues/1673) Screen goes blank after existing shell while running k9s on M1
 
 ---
 

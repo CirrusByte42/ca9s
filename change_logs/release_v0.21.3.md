@@ -33,16 +33,16 @@ Thank you!!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #816](https://github.com/derailed/k9s/issues/816)
-* [Issue #813](https://github.com/derailed/k9s/issues/813)
-* [Issue #812](https://github.com/derailed/k9s/issues/812)
-* [Issue #810](https://github.com/derailed/k9s/issues/810)
-* [Issue #807](https://github.com/derailed/k9s/issues/807)
-* [Issue #806](https://github.com/derailed/k9s/issues/806)
-* [Issue #805](https://github.com/derailed/k9s/issues/805)
-* [Issue #800](https://github.com/derailed/k9s/issues/800)
-* [Issue #799](https://github.com/derailed/k9s/issues/799)
-* [Issue #709](https://github.com/derailed/k9s/issues/709) Crossing fingers and toes ;)
+* [Issue #816](https://github.com/CirrusByte42/ca9s/issues/816)
+* [Issue #813](https://github.com/CirrusByte42/ca9s/issues/813)
+* [Issue #812](https://github.com/CirrusByte42/ca9s/issues/812)
+* [Issue #810](https://github.com/CirrusByte42/ca9s/issues/810)
+* [Issue #807](https://github.com/CirrusByte42/ca9s/issues/807)
+* [Issue #806](https://github.com/CirrusByte42/ca9s/issues/806)
+* [Issue #805](https://github.com/CirrusByte42/ca9s/issues/805)
+* [Issue #800](https://github.com/CirrusByte42/ca9s/issues/800)
+* [Issue #799](https://github.com/CirrusByte42/ca9s/issues/799)
+* [Issue #709](https://github.com/CirrusByte42/ca9s/issues/709) Crossing fingers and toes ;)
 
 ---
 

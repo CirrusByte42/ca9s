@@ -7,8 +7,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/derailed/k9s/internal/config"
-	"github.com/derailed/k9s/internal/config/mock"
+	"github.com/CirrusByte42/ca9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config/mock"
 	"github.com/stretchr/testify/assert"
 	"k8s.io/cli-runtime/pkg/genericclioptions"
 )

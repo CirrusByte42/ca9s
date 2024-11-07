@@ -52,15 +52,15 @@ More bugz...😿
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #536](https://github.com/derailed/k9s/issues/536)
-* [Issue #526](https://github.com/derailed/k9s/issues/526)
-* [Issue #464](https://github.com/derailed/k9s/issues/464)
+* [Issue #536](https://github.com/CirrusByte42/ca9s/issues/536)
+* [Issue #526](https://github.com/CirrusByte42/ca9s/issues/526)
+* [Issue #464](https://github.com/CirrusByte42/ca9s/issues/464)
 
-* [PR #532](https://github.com/derailed/k9s/pull/532) Thank you!! [Joscha Alisch](https://github.com/joscha-alisch)
-* [PR #525](https://github.com/derailed/k9s/pull/525) Big Thanks!! [darklore](https://github.com/darklore)
-* [PR #524](https://github.com/derailed/k9s/pull/524) Thank you (Again)!! [Joscha Alisch](https://github.com/joscha-alisch)
-* [PR #514](https://github.com/derailed/k9s/pull/514) ATTA Boy!! [Alexander F. Rødseth](https://github.com/xyproto)
-* [PR #483](https://github.com/derailed/k9s/pull/483) Thank you!! [Paul Varache](https://github.com/paulvarache)
+* [PR #532](https://github.com/CirrusByte42/ca9s/pull/532) Thank you!! [Joscha Alisch](https://github.com/joscha-alisch)
+* [PR #525](https://github.com/CirrusByte42/ca9s/pull/525) Big Thanks!! [darklore](https://github.com/darklore)
+* [PR #524](https://github.com/CirrusByte42/ca9s/pull/524) Thank you (Again)!! [Joscha Alisch](https://github.com/joscha-alisch)
+* [PR #514](https://github.com/CirrusByte42/ca9s/pull/514) ATTA Boy!! [Alexander F. Rødseth](https://github.com/xyproto)
+* [PR #483](https://github.com/CirrusByte42/ca9s/pull/483) Thank you!! [Paul Varache](https://github.com/paulvarache)
 
 ---
 

@@ -25,9 +25,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [#2330](https://github.com/derailed/k9s/issues/2330) Skins don't work v0.29.0
-* [#2329](https://github.com/derailed/k9s/issues/2329) New skin system in v0.29.0 doesn't work if you use different k8s context files
-* [#2327](https://github.com/derailed/k9s/issues/2327) [Bug] Item highlighting broke in v0.29.0
+* [#2330](https://github.com/CirrusByte42/ca9s/issues/2330) Skins don't work v0.29.0
+* [#2329](https://github.com/CirrusByte42/ca9s/issues/2329) New skin system in v0.29.0 doesn't work if you use different k8s context files
+* [#2327](https://github.com/CirrusByte42/ca9s/issues/2327) [Bug] Item highlighting broke in v0.29.0
 
 ---
 

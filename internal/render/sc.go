@@ -6,8 +6,8 @@ package render
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/model1"
 	storagev1 "k8s.io/api/storage/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

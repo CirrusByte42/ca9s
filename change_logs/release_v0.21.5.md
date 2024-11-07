@@ -24,7 +24,7 @@ Don't let OSS by individual contributors become an oxymoron...
 
 ## New Skins On The Block!
 
-In this drop, big thanks are in effect for [Dan Mikita](https://github.com/danmikita) for contributing a new K9s [solarized theme](https://github.com/derailed/k9s/tree/master/skins)!
+In this drop, big thanks are in effect for [Dan Mikita](https://github.com/danmikita) for contributing a new K9s [solarized theme](https://github.com/CirrusByte42/ca9s/tree/master/skins)!
 
 Also we've added a new skin configuration for table's cursor namely `cursorFgColor` and `cursorBgColor`:
 
@@ -46,10 +46,10 @@ Also we've added a new skin configuration for table's cursor namely `cursorFgCol
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #826](https://github.com/derailed/k9s/issues/826)
-* [Issue #824](https://github.com/derailed/k9s/issues/824)
-* [Issue #823](https://github.com/derailed/k9s/issues/823)
-* [Issue #821](https://github.com/derailed/k9s/issues/821)
+* [Issue #826](https://github.com/CirrusByte42/ca9s/issues/826)
+* [Issue #824](https://github.com/CirrusByte42/ca9s/issues/824)
+* [Issue #823](https://github.com/CirrusByte42/ca9s/issues/823)
+* [Issue #821](https://github.com/CirrusByte42/ca9s/issues/821)
 
 ---
 

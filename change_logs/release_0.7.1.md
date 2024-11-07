@@ -29,8 +29,8 @@ This is a quick turn around, hopefully I did not hose anything else in the proce
 
 ## Resolved Bugs/Features
 
-+ [Issue #200](https://github.com/derailed/k9s/issues/200)
-+ [Issue #187](https://github.com/derailed/k9s/issues/187)
++ [Issue #200](https://github.com/CirrusByte42/ca9s/issues/200)
++ [Issue #187](https://github.com/CirrusByte42/ca9s/issues/187)
 
 ---
 

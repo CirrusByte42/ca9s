@@ -76,11 +76,11 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2374](https://github.com/derailed/k9s/issues/2374) The headless parameter does not function properly (v0.30.1)
-* [#2372](https://github.com/derailed/k9s/issues/2372) Unable to set default resource to load (v0.30.1)
-* [#2371](https://github.com/derailed/k9s/issues/2371) --write cli option does not work (0.30.X)
-* [#2370](https://github.com/derailed/k9s/issues/2370) Wrong list of pods on node (0.30.X)
-* [#2362](https://github.com/derailed/k9s/issues/2362) blackList: Use inclusive language alternatives
+* [#2374](https://github.com/CirrusByte42/ca9s/issues/2374) The headless parameter does not function properly (v0.30.1)
+* [#2372](https://github.com/CirrusByte42/ca9s/issues/2372) Unable to set default resource to load (v0.30.1)
+* [#2371](https://github.com/CirrusByte42/ca9s/issues/2371) --write cli option does not work (0.30.X)
+* [#2370](https://github.com/CirrusByte42/ca9s/issues/2370) Wrong list of pods on node (0.30.X)
+* [#2362](https://github.com/CirrusByte42/ca9s/issues/2362) blackList: Use inclusive language alternatives
 
 ---
 
@@ -88,8 +88,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2375](https://github.com/derailed/k9s/pull/2375) get node filtering params from matching context values
-* [#2373](https://github.com/derailed/k9s/pull/2373) fix command line flags not working
+* [#2375](https://github.com/CirrusByte42/ca9s/pull/2375) get node filtering params from matching context values
+* [#2373](https://github.com/CirrusByte42/ca9s/pull/2373) fix command line flags not working
 
 ---
 

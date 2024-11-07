@@ -20,7 +20,7 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ## Resolved Bugs
 
-+ [Issue #171](https://github.com/derailed/k9s/issues/171) With feelings...
++ [Issue #171](https://github.com/CirrusByte42/ca9s/issues/171) With feelings...
 
 ---
 

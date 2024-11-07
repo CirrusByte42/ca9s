@@ -20,7 +20,7 @@ Removed requirement that enforces node access. In the case RBAC rules are in eff
 
 ## Resolved Bugs/Features
 
-+ [Issue #202](https://github.com/derailed/k9s/issues/202)
++ [Issue #202](https://github.com/CirrusByte42/ca9s/issues/202)
 
 
 ---

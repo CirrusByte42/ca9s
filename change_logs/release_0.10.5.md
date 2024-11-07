@@ -22,7 +22,7 @@ Hopefully moving the needle a bit more in the right direction??
 
 ## Resolved Bugs/Features
 
-* [Issue #457](https://github.com/derailed/k9s/issues/457)
+* [Issue #457](https://github.com/CirrusByte42/ca9s/issues/457)
 
 ---
 

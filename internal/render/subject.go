@@ -6,7 +6,7 @@ package render
 import (
 	"fmt"
 
-	"github.com/derailed/k9s/internal/model1"
+	"github.com/CirrusByte42/ca9s/internal/model1"
 	"github.com/derailed/tcell/v2"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"

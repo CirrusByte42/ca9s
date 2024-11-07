@@ -18,9 +18,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #933](https://github.com/derailed/k9s/issues/933) Unable to cordon node starting in v0.23.8
-* [Issue #932](https://github.com/derailed/k9s/issues/932) Won't start if api.github.com is inaccessible
-* [Issue #931](https://github.com/derailed/k9s/issues/931) Describe ingress not showing labels
+* [Issue #933](https://github.com/CirrusByte42/ca9s/issues/933) Unable to cordon node starting in v0.23.8
+* [Issue #932](https://github.com/CirrusByte42/ca9s/issues/932) Won't start if api.github.com is inaccessible
+* [Issue #931](https://github.com/CirrusByte42/ca9s/issues/931) Describe ingress not showing labels
 
 ## Resolved PRs
 

@@ -35,8 +35,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2582](https://github.com/derailed/k9s/issues/2582) Slowness due to client-side throttling in v0.32.0  (Maybe??)
-* [#2593](https://github.com/derailed/k9s/issues/2593) Popeye not working in 0.32.X
+* [#2582](https://github.com/CirrusByte42/ca9s/issues/2582) Slowness due to client-side throttling in v0.32.0  (Maybe??)
+* [#2593](https://github.com/CirrusByte42/ca9s/issues/2593) Popeye not working in 0.32.X
 
 ---
 

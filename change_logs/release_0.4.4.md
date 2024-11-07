@@ -25,14 +25,14 @@ Also if you dig this tool, please make some noise on social! [@kitesurfer](https
 
 ### Container Logs
 
-  [Feature #147](https://github.com/derailed/k9s/issues/147). The default behavior was to pick the first available container. Which meant if the pod has an init container, the log view would choose that.
+  [Feature #147](https://github.com/CirrusByte42/ca9s/issues/147). The default behavior was to pick the first available container. Which meant if the pod has an init container, the log view would choose that.
   The view will now choose the first non init container. Most likely it
   would be the wrong choice in pod's sidecar scenarios, but for the time
   being showing log on one of the init containers just did not make much sense. You can still pick other containers via the menu options. We will implement a better solution for this soon...
 
 ### Delete Dialog
 
-  [Feature #146](https://github.com/derailed/k9s/issues/146) Tx @dperique!
+  [Feature #146](https://github.com/CirrusByte42/ca9s/issues/146) Tx @dperique!
   Pressing `<enter>` on the delete dialog would delete the resource. Now
   `cancel` is the default button. Hence you must use `<tab>` or `->` to
   select `OK` then press `<enter>` to delete.

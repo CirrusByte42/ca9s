@@ -14,13 +14,13 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-+ [Feature #98](https://github.com/derailed/k9s/issues/98) Pod view with node name.
-+ [Feature #29](https://github.com/derailed/k9s/issues/29) Support ANSI colors in logs.
-+ [Feature #105](https://github.com/derailed/k9s/issues/29) [Experimental] Add support for manual refresh.
++ [Feature #98](https://github.com/CirrusByte42/ca9s/issues/98) Pod view with node name.
++ [Feature #29](https://github.com/CirrusByte42/ca9s/issues/29) Support ANSI colors in logs.
++ [Feature #105](https://github.com/CirrusByte42/ca9s/issues/29) [Experimental] Add support for manual refresh.
 
 ---
 
 ## Resolved Bugs
 
-+ [Issue #102](https://github.com/derailed/k9s/issues/102)
-+ [Issue #104](https://github.com/derailed/k9s/issues/104)
++ [Issue #102](https://github.com/CirrusByte42/ca9s/issues/102)
++ [Issue #104](https://github.com/CirrusByte42/ca9s/issues/104)

@@ -50,11 +50,11 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [#2569](https://github.com/derailed/k9s/issues/2569) k9s panics on start if the main config file (config.yml) is owned by root
-* [#2568](https://github.com/derailed/k9s/issues/2568) kube context in running k9s is no longer sticky, during kubectx context switch
-* [#2560](https://github.com/derailed/k9s/issues/2560) Namespace/Settings keeps resetting
-* [#2557](https://github.com/derailed/k9s/issues/2557) [Feature]: Sort CRDs by their group
-* [#1462](https://github.com/derailed/k9s/issues/1462) k9s running very slowly when opening namespace with 13k pods (maybe??)
+* [#2569](https://github.com/CirrusByte42/ca9s/issues/2569) k9s panics on start if the main config file (config.yml) is owned by root
+* [#2568](https://github.com/CirrusByte42/ca9s/issues/2568) kube context in running k9s is no longer sticky, during kubectx context switch
+* [#2560](https://github.com/CirrusByte42/ca9s/issues/2560) Namespace/Settings keeps resetting
+* [#2557](https://github.com/CirrusByte42/ca9s/issues/2557) [Feature]: Sort CRDs by their group
+* [#1462](https://github.com/CirrusByte42/ca9s/issues/1462) k9s running very slowly when opening namespace with 13k pods (maybe??)
 
 ---
 
@@ -62,11 +62,11 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2564](https://github.com/derailed/k9s/pull/2564) Add everforest skins
-* [#2558](https://github.com/derailed/k9s/pull/2558) feat: sort by role in node list view
-* [#2554](https://github.com/derailed/k9s/pull/2554) Added context to the debug command for debug-container plugin
-* [#2554](https://github.com/derailed/k9s/pull/2554) Correctly respect the KUBECACHEDIR env var
-* [#2546](https://github.com/derailed/k9s/pull/2546) Use configured log fgColor to print log markers
+* [#2564](https://github.com/CirrusByte42/ca9s/pull/2564) Add everforest skins
+* [#2558](https://github.com/CirrusByte42/ca9s/pull/2558) feat: sort by role in node list view
+* [#2554](https://github.com/CirrusByte42/ca9s/pull/2554) Added context to the debug command for debug-container plugin
+* [#2554](https://github.com/CirrusByte42/ca9s/pull/2554) Correctly respect the KUBECACHEDIR env var
+* [#2546](https://github.com/CirrusByte42/ca9s/pull/2546) Use configured log fgColor to print log markers
 
 ---
 

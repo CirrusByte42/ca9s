@@ -22,7 +22,7 @@ Maintenance Release!
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #756](https://github.com/derailed/k9s/issues/756)
+* [Issue #756](https://github.com/CirrusByte42/ca9s/issues/756)
 
 ---
 

@@ -36,8 +36,8 @@ Let us know if you dig it? And share your before/after clusters scores!
 
 ## Resolved Bugs
 
-+ Great find! Thank you @swe-covis! Moved alias view to `Ctrl-A` [Issue #156](https://github.com/derailed/k9s/issues/156)
-+ Added toggle autoscroll via `s` key [Issue #155](https://github.com/derailed/k9s/issues/155)
++ Great find! Thank you @swe-covis! Moved alias view to `Ctrl-A` [Issue #156](https://github.com/CirrusByte42/ca9s/issues/156)
++ Added toggle autoscroll via `s` key [Issue #155](https://github.com/CirrusByte42/ca9s/issues/155)
 
 ---
 

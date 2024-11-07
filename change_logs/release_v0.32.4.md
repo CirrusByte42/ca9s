@@ -47,10 +47,10 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2608](https://github.com/derailed/k9s/issues/2608) Make the sanitize feature easier to use
-* [#2605](https://github.com/derailed/k9s/issues/2605) Built-in shortcuts being overridden by plugins result in excessive logging
-* [#2604](https://github.com/derailed/k9s/issues/2604) Ability to mark a plugin as Dangerous/destructive
-* [#2592](https://github.com/derailed/k9s/issues/2592) "list access denied" when switching contexts within k9s since 0.32.0
+* [#2608](https://github.com/CirrusByte42/ca9s/issues/2608) Make the sanitize feature easier to use
+* [#2605](https://github.com/CirrusByte42/ca9s/issues/2605) Built-in shortcuts being overridden by plugins result in excessive logging
+* [#2604](https://github.com/CirrusByte42/ca9s/issues/2604) Ability to mark a plugin as Dangerous/destructive
+* [#2592](https://github.com/CirrusByte42/ca9s/issues/2592) "list access denied" when switching contexts within k9s since 0.32.0
 
 ---
 
@@ -58,7 +58,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2621](https://github.com/derailed/k9s/pull/2621) Fix snap build
+* [#2621](https://github.com/CirrusByte42/ca9s/pull/2621) Fix snap build
 
 ---
 

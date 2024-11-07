@@ -20,11 +20,11 @@ WOOT!! Big Thank you in this release to [Matthew Davis](https://github.com/mateo
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #520](https://github.com/derailed/k9s/issues/520)
-* [Issue #518](https://github.com/derailed/k9s/issues/518)
-* [Issue #517](https://github.com/derailed/k9s/issues/517)
-* [Issue #516](https://github.com/derailed/k9s/issues/516)
-* [Issue #506](https://github.com/derailed/k9s/issues/506)
+* [Issue #520](https://github.com/CirrusByte42/ca9s/issues/520)
+* [Issue #518](https://github.com/CirrusByte42/ca9s/issues/518)
+* [Issue #517](https://github.com/CirrusByte42/ca9s/issues/517)
+* [Issue #516](https://github.com/CirrusByte42/ca9s/issues/516)
+* [Issue #506](https://github.com/CirrusByte42/ca9s/issues/506)
 
 ---
 

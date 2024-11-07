@@ -20,7 +20,7 @@ First casualties... As my pappy used to say `can't cook without making a big mes
 
 ## Resolved Bugs/Features
 
-* [Issue #450](https://github.com/derailed/k9s/issues/450) Skins work messed up the UI. Thank you [Julio H Morimoto](https://github.com/juliohm1978)!!
+* [Issue #450](https://github.com/CirrusByte42/ca9s/issues/450) Skins work messed up the UI. Thank you [Julio H Morimoto](https://github.com/juliohm1978)!!
 
 ---
 

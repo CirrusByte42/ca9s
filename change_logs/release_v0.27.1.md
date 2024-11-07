@@ -18,11 +18,11 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1943](https://github.com/derailed/k9s/issues/1943) k9s display is broken after switching to v0.27.0
-* [Issue #1935](https://github.com/derailed/k9s/issues/1935) Active namespace is dropped after accessing forbidden resources
-* [Issue #1913](https://github.com/derailed/k9s/issues/1913) Exit edit mode deadlock
-* [Issue #1895](https://github.com/derailed/k9s/issues/1895) AWS workspace. K9s fails on startup with unknown userid error
-* [Issue #1842](https://github.com/derailed/k9s/issues/1842) Strange one - brew installed k9s
+* [Issue #1943](https://github.com/CirrusByte42/ca9s/issues/1943) k9s display is broken after switching to v0.27.0
+* [Issue #1935](https://github.com/CirrusByte42/ca9s/issues/1935) Active namespace is dropped after accessing forbidden resources
+* [Issue #1913](https://github.com/CirrusByte42/ca9s/issues/1913) Exit edit mode deadlock
+* [Issue #1895](https://github.com/CirrusByte42/ca9s/issues/1895) AWS workspace. K9s fails on startup with unknown userid error
+* [Issue #1842](https://github.com/CirrusByte42/ca9s/issues/1842) Strange one - brew installed k9s
 
 ---
 

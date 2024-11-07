@@ -22,7 +22,7 @@ Minor code cleanup and some display bug fixes.
 
 ## Resolved Bugs
 
-+ [Issue #168](https://github.com/derailed/k9s/issues/168)
++ [Issue #168](https://github.com/CirrusByte42/ca9s/issues/168)
 
 ---
 

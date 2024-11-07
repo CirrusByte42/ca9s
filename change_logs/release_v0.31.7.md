@@ -42,7 +42,7 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2488](https://github.com/derailed/k9s/issues/2488) linux_amd64 "--kubeconfig" not working on v0.31.6
+* [#2488](https://github.com/CirrusByte42/ca9s/issues/2488) linux_amd64 "--kubeconfig" not working on v0.31.6
 
 ---
 

@@ -18,8 +18,8 @@ And the bit goes on...
 
 ## Resolved Issues
 
-* [Issue #1333](https://github.com/derailed/k9s/issues/1333) Log level not showing in k9s
-* [Issue #1253](https://github.com/derailed/k9s/issues/1253) Namespace filter automatically applied after viewing a deployment
+* [Issue #1333](https://github.com/CirrusByte42/ca9s/issues/1333) Log level not showing in k9s
+* [Issue #1253](https://github.com/CirrusByte42/ca9s/issues/1253) Namespace filter automatically applied after viewing a deployment
 
 ---
 

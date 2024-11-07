@@ -33,8 +33,8 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #539](https://github.com/derailed/k9s/issues/539)
-* [Issue #538](https://github.com/derailed/k9s/issues/538) Fingers crossed!
+* [Issue #539](https://github.com/CirrusByte42/ca9s/issues/539)
+* [Issue #538](https://github.com/CirrusByte42/ca9s/issues/538) Fingers crossed!
 
 ---
 

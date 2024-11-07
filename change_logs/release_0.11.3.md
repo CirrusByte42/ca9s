@@ -26,8 +26,8 @@ Thanks Chris! Was up all night trying to figure out and what was the deal with K
 
 ## Resolved Bugs/Features
 
-* [Issue #475](https://github.com/derailed/k9s/issues/475)
-* [Issue #473](https://github.com/derailed/k9s/issues/473)
+* [Issue #475](https://github.com/CirrusByte42/ca9s/issues/475)
+* [Issue #473](https://github.com/CirrusByte42/ca9s/issues/473)
 
 ---
 

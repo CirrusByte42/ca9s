@@ -41,23 +41,23 @@ In this drop, we've added additional configurations to the k9s node shell so you
 
 ## Resolved Issues
 
-* [Issue #1106](https://github.com/derailed/k9s/issues/1106) Remove padding while in full screen
-* [Issue #1104](https://github.com/derailed/k9s/issues/1104) Config args for shellPod
-* [Issue #1102](https://github.com/derailed/k9s/issues/1102) Explicitly announce no metrics are available
-* [Issue #1097](https://github.com/derailed/k9s/issues/1097) Delete resource dialog stopped working
-* [Issue #1093](https://github.com/derailed/k9s/issues/1094) Leading comma in command column
-* [Issue #1094](https://github.com/derailed/k9s/issues/1094) Screendumps empty on EKS
-* [Issue #1060](https://github.com/derailed/k9s/issues/1060) Exception when setting container image
-* [Issue #1081](https://github.com/derailed/k9s/issues/1081) Color issue on startup
-* [Issue #1078](https://github.com/derailed/k9s/issues/1078) Nord skin
-* [Issue #1075](https://github.com/derailed/k9s/issues/1075) Crash on mouse click out of main window
-* [Issue #1070](https://github.com/derailed/k9s/issues/1070) lose cursor on windows 10
-* [Issue #1068](https://github.com/derailed/k9s/issues/1068) Build error 0.24.7
-* [Issue #1063](https://github.com/derailed/k9s/issues/1063) Weird colour scheme on windows
+* [Issue #1106](https://github.com/CirrusByte42/ca9s/issues/1106) Remove padding while in full screen
+* [Issue #1104](https://github.com/CirrusByte42/ca9s/issues/1104) Config args for shellPod
+* [Issue #1102](https://github.com/CirrusByte42/ca9s/issues/1102) Explicitly announce no metrics are available
+* [Issue #1097](https://github.com/CirrusByte42/ca9s/issues/1097) Delete resource dialog stopped working
+* [Issue #1093](https://github.com/CirrusByte42/ca9s/issues/1094) Leading comma in command column
+* [Issue #1094](https://github.com/CirrusByte42/ca9s/issues/1094) Screendumps empty on EKS
+* [Issue #1060](https://github.com/CirrusByte42/ca9s/issues/1060) Exception when setting container image
+* [Issue #1081](https://github.com/CirrusByte42/ca9s/issues/1081) Color issue on startup
+* [Issue #1078](https://github.com/CirrusByte42/ca9s/issues/1078) Nord skin
+* [Issue #1075](https://github.com/CirrusByte42/ca9s/issues/1075) Crash on mouse click out of main window
+* [Issue #1070](https://github.com/CirrusByte42/ca9s/issues/1070) lose cursor on windows 10
+* [Issue #1068](https://github.com/CirrusByte42/ca9s/issues/1068) Build error 0.24.7
+* [Issue #1063](https://github.com/CirrusByte42/ca9s/issues/1063) Weird colour scheme on windows
 
 ## Resolved PRs
 
-* [PR #1101](https://github.com/derailed/k9s/pull/1101) propagate insecure-skip-tls-verify
+* [PR #1101](https://github.com/CirrusByte42/ca9s/pull/1101) propagate insecure-skip-tls-verify
 
 ---
 

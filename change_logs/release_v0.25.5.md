@@ -16,10 +16,10 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1327](https://github.com/derailed/k9s/issues/1327) Switching K8s resource changes view to all namespace
-* [Issue #1326](https://github.com/derailed/k9s/issues/1326) Port forwarding not possible because of "invalid container port"
-* [Issue #1325](https://github.com/derailed/k9s/issues/1325) Meaning of number in brackets after context name is unclear
-* [Issue #1324](https://github.com/derailed/k9s/issues/1324) Problem with Configuration for macOS is can't find configuration directory
+* [Issue #1327](https://github.com/CirrusByte42/ca9s/issues/1327) Switching K8s resource changes view to all namespace
+* [Issue #1326](https://github.com/CirrusByte42/ca9s/issues/1326) Port forwarding not possible because of "invalid container port"
+* [Issue #1325](https://github.com/CirrusByte42/ca9s/issues/1325) Meaning of number in brackets after context name is unclear
+* [Issue #1324](https://github.com/CirrusByte42/ca9s/issues/1324) Problem with Configuration for macOS is can't find configuration directory
 
 ---
 

@@ -37,9 +37,9 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #596](https://github.com/derailed/k9s/issues/596)
-- [Issue #593](https://github.com/derailed/k9s/issues/593)
-- [Issue #560](https://github.com/derailed/k9s/issues/560)
+- [Issue #596](https://github.com/CirrusByte42/ca9s/issues/596)
+- [Issue #593](https://github.com/CirrusByte42/ca9s/issues/593)
+- [Issue #560](https://github.com/CirrusByte42/ca9s/issues/560)
   - NOTE!! All credits here goes to [Bruno Meneguello](https://github.com/bkmeneguello) and [Michael Cristina](https://github.com/mcristina422) for making this possible in K9s!
 
 ---

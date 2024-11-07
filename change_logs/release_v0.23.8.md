@@ -18,7 +18,7 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues/Features
 
-* [Issue #663](https://github.com/derailed/k9s/issues/663) K9s is slow on large clusters (With feelings and crossing both fingers and toes)
+* [Issue #663](https://github.com/CirrusByte42/ca9s/issues/663) K9s is slow on large clusters (With feelings and crossing both fingers and toes)
 
 ## Resolved PRs
 

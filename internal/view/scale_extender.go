@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config"
 
-	"github.com/derailed/k9s/internal/dao"
-	"github.com/derailed/k9s/internal/ui"
+	"github.com/CirrusByte42/ca9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/ui"
 	"github.com/derailed/tcell/v2"
 	"github.com/derailed/tview"
 	"github.com/rs/zerolog/log"

@@ -43,8 +43,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2466](https://github.com/derailed/k9s/issues/2466) Panic: index out of range [0] with length 0
-* [#2465](https://github.com/derailed/k9s/issues/2465) v0.31.4 - panic; no client connection detected - with feelings!!
+* [#2466](https://github.com/CirrusByte42/ca9s/issues/2466) Panic: index out of range [0] with length 0
+* [#2465](https://github.com/CirrusByte42/ca9s/issues/2465) v0.31.4 - panic; no client connection detected - with feelings!!
 
 ---
 

@@ -34,9 +34,9 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2401](https://github.com/derailed/k9s/issues/2401) Context completion broken with mixed case context names
-* [#2400](https://github.com/derailed/k9s/issues/2400) Panic on start if dns lookup fails
-* [#2387](https://github.com/derailed/k9s/issues/2387) Invalid namespace xxx - with feelings??
+* [#2401](https://github.com/CirrusByte42/ca9s/issues/2401) Context completion broken with mixed case context names
+* [#2400](https://github.com/CirrusByte42/ca9s/issues/2400) Panic on start if dns lookup fails
+* [#2387](https://github.com/CirrusByte42/ca9s/issues/2387) Invalid namespace xxx - with feelings??
 
 ---
 

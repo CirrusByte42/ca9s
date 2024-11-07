@@ -31,21 +31,21 @@ Contrarily to popular belief, OSS is not free! We've now reached ~9k stars and 3
 
 ## Resolved Issues/Features
 
-* [Issue #871](https://github.com/derailed/k9s/issues/871) K9s memory leak when shell that launched k9s is terminated.
-* [Issue #857](https://github.com/derailed/k9s/issues/857) Working in readonly mode.
-* [Issue #855](https://github.com/derailed/k9s/issues/855) Some mouse support.
-* [Issue #849](https://github.com/derailed/k9s/issues/849) Xray highlight color.
-* [Issue #845](https://github.com/derailed/k9s/issues/845) CronJob trigger checks wrong permission.
-* [Issue #837](https://github.com/derailed/k9s/issues/837) Hang after running plugin.
+* [Issue #871](https://github.com/CirrusByte42/ca9s/issues/871) K9s memory leak when shell that launched k9s is terminated.
+* [Issue #857](https://github.com/CirrusByte42/ca9s/issues/857) Working in readonly mode.
+* [Issue #855](https://github.com/CirrusByte42/ca9s/issues/855) Some mouse support.
+* [Issue #849](https://github.com/CirrusByte42/ca9s/issues/849) Xray highlight color.
+* [Issue #845](https://github.com/CirrusByte42/ca9s/issues/845) CronJob trigger checks wrong permission.
+* [Issue #837](https://github.com/CirrusByte42/ca9s/issues/837) Hang after running plugin.
 
 ## Resolved PRs
 
-* [PR #866](https://github.com/derailed/k9s/pull/866) Go 1.15 support convert int to string failure. Thank you [Trung](https://github.com/runlevel5)!
-* [PR #864](https://github.com/derailed/k9s/pull/864) Add ppc64le target. Thank you once again [Trung](https://github.com/runlevel5)!
-* [PR #863](https://github.com/derailed/k9s/pull/863) Update images in Dockerfile. Big thanks to [Peter Sutter](https://github.com/petersutter)!
-* [PR #841](https://github.com/derailed/k9s/pull/841) Fix a type in bug report template. Thanks to [Jinsu Park](https://github.com/umi0410)!
-* [PR #834](https://github.com/derailed/k9s/pull/834) Add Chocolatey installation. Thanks to [Romain](https://github.com/romch007)!
-* [PR #828](https://github.com/derailed/k9s/pull/828) Add solarized dark skin. Big Thanks to [Dan Mikita](https://github.com/danmikita)!
+* [PR #866](https://github.com/CirrusByte42/ca9s/pull/866) Go 1.15 support convert int to string failure. Thank you [Trung](https://github.com/runlevel5)!
+* [PR #864](https://github.com/CirrusByte42/ca9s/pull/864) Add ppc64le target. Thank you once again [Trung](https://github.com/runlevel5)!
+* [PR #863](https://github.com/CirrusByte42/ca9s/pull/863) Update images in Dockerfile. Big thanks to [Peter Sutter](https://github.com/petersutter)!
+* [PR #841](https://github.com/CirrusByte42/ca9s/pull/841) Fix a type in bug report template. Thanks to [Jinsu Park](https://github.com/umi0410)!
+* [PR #834](https://github.com/CirrusByte42/ca9s/pull/834) Add Chocolatey installation. Thanks to [Romain](https://github.com/romch007)!
+* [PR #828](https://github.com/CirrusByte42/ca9s/pull/828) Add solarized dark skin. Big Thanks to [Dan Mikita](https://github.com/danmikita)!
 
 ---
 

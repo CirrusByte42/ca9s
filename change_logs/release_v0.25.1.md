@@ -19,9 +19,9 @@ May need a few rapid fires to regain some sanity so please bare with us and than
 
 ## Resolved Issues
 
-* [Issue #1308](https://github.com/derailed/k9s/issues/1308) Command auto-complete suggestions disappear after screen refresh interval #1308
-* [Issue #1307](https://github.com/derailed/k9s/issues/1307) Displayed Cluster name is always read from current-contex
-* [Issue #1296](https://github.com/derailed/k9s/issues/1244) Scoobie doo was not a cow - NOTE: Switch to dialog to keep live context!
+* [Issue #1308](https://github.com/CirrusByte42/ca9s/issues/1308) Command auto-complete suggestions disappear after screen refresh interval #1308
+* [Issue #1307](https://github.com/CirrusByte42/ca9s/issues/1307) Displayed Cluster name is always read from current-contex
+* [Issue #1296](https://github.com/CirrusByte42/ca9s/issues/1244) Scoobie doo was not a cow - NOTE: Switch to dialog to keep live context!
 
 ---
 

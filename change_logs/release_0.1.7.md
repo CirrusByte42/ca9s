@@ -14,15 +14,15 @@ Thank you so much for your support!!
 
 ## Change Logs
 
-* [Feature request #73](https://github.com/derailed/k9s/issues/73) Add support for search/filter
-* [Feature request #48](https://github.com/derailed/k9s/issues/48) Add support to filter alias view
-* [Feature request #30](https://github.com/derailed/k9s/issues/30) Add support for init containers
+* [Feature request #73](https://github.com/CirrusByte42/ca9s/issues/73) Add support for search/filter
+* [Feature request #48](https://github.com/CirrusByte42/ca9s/issues/48) Add support to filter alias view
+* [Feature request #30](https://github.com/CirrusByte42/ca9s/issues/30) Add support for init containers
 * Major cleanup + refactor. Might have introduced some instability...
 
 ---
 
 ## Resolved Bugs
 
-* [Issue #71](https://github.com/derailed/k9s/issues/71) K9s no longer assumes a metrics server is
+* [Issue #71](https://github.com/CirrusByte42/ca9s/issues/71) K9s no longer assumes a metrics server is
   running. Better if it is but should not prevent from viewing resources.
-* [Issue #77](https://github.com/derailed/k9s/issues/77)
+* [Issue #77](https://github.com/CirrusByte42/ca9s/issues/77)

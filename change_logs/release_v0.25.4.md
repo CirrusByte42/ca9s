@@ -16,9 +16,9 @@ On Slack? Please join us [K9slackers](https://join.slack.com/t/k9sers/shared_inv
 
 ## Resolved Issues
 
-* [Issue #1319](https://github.com/derailed/k9s/issues/1319) Namespace filters are no longer applied on startup
-* [Issue #1317](https://github.com/derailed/k9s/issues/1317) port forwarding broke with multiple exposed ports
-* [Issue #1316](https://github.com/derailed/k9s/issues/1316) Configuration for macOS is using wrong path
+* [Issue #1319](https://github.com/CirrusByte42/ca9s/issues/1319) Namespace filters are no longer applied on startup
+* [Issue #1317](https://github.com/CirrusByte42/ca9s/issues/1317) port forwarding broke with multiple exposed ports
+* [Issue #1316](https://github.com/CirrusByte42/ca9s/issues/1316) Configuration for macOS is using wrong path
 
 ---
 

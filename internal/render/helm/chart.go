@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/model1"
-	"github.com/derailed/k9s/internal/render"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/model1"
+	"github.com/CirrusByte42/ca9s/internal/render"
 	"helm.sh/helm/v3/pkg/release"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"

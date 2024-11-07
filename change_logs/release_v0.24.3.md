@@ -42,22 +42,22 @@ If you would like to support us, you can either join our github sponsors or purc
 
 ## Resolved Issues
 
-* [Issue #1038](https://github.com/derailed/k9s/issues/1038) Release Cronjob API
-* [Issue #1035](https://github.com/derailed/k9s/issues/1035) Update Ingress API Group
-* [Issue #1028](https://github.com/derailed/k9s/issues/1028) Go compile
-* [Issue #1024](https://github.com/derailed/k9s/issues/1024) Add Pod Readiness/Nominated cols
-* [Issue #1013](https://github.com/derailed/k9s/issues/1013) Panic string negative repeat count
-* [Issue #1005](https://github.com/derailed/k9s/issues/1005) No x86_64 binaries
-* [Issue #735](https://github.com/derailed/k9s/issues/735) Shell into windows containers
+* [Issue #1038](https://github.com/CirrusByte42/ca9s/issues/1038) Release Cronjob API
+* [Issue #1035](https://github.com/CirrusByte42/ca9s/issues/1035) Update Ingress API Group
+* [Issue #1028](https://github.com/CirrusByte42/ca9s/issues/1028) Go compile
+* [Issue #1024](https://github.com/CirrusByte42/ca9s/issues/1024) Add Pod Readiness/Nominated cols
+* [Issue #1013](https://github.com/CirrusByte42/ca9s/issues/1013) Panic string negative repeat count
+* [Issue #1005](https://github.com/CirrusByte42/ca9s/issues/1005) No x86_64 binaries
+* [Issue #735](https://github.com/CirrusByte42/ca9s/issues/735) Shell into windows containers
 
 ## Resolved PRs
 
-* [PR #1022](https://github.com/derailed/k9s/pull/1022) Update release
-* [PR #1012](https://github.com/derailed/k9s/pull/1012) Fix typo for cluster based skins
-* [PR #1009](https://github.com/derailed/k9s/pull/1009) Add webi installer info
-* [PR #1004](https://github.com/derailed/k9s/pull/1004) Correction CronJob ApiVersion
-* [PR #1026](https://github.com/derailed/k9s/pull/1026) Add option to hide logo
-* [PR #997](https://github.com/derailed/k9s/pull/997) Shell into windows containers
+* [PR #1022](https://github.com/CirrusByte42/ca9s/pull/1022) Update release
+* [PR #1012](https://github.com/CirrusByte42/ca9s/pull/1012) Fix typo for cluster based skins
+* [PR #1009](https://github.com/CirrusByte42/ca9s/pull/1009) Add webi installer info
+* [PR #1004](https://github.com/CirrusByte42/ca9s/pull/1004) Correction CronJob ApiVersion
+* [PR #1026](https://github.com/CirrusByte42/ca9s/pull/1026) Add option to hide logo
+* [PR #997](https://github.com/CirrusByte42/ca9s/pull/997) Shell into windows containers
 
 ---
 

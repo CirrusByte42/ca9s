@@ -34,8 +34,8 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 ## Resolved Issues
 
-* [#2423](https://github.com/derailed/k9s/issues/2423) CPU and MEM counters of AKS clusters show not available
-* [#2418](https://github.com/derailed/k9s/issues/2418) Boom! runtime error: invalid memory address or nil pointer dereference
+* [#2423](https://github.com/CirrusByte42/ca9s/issues/2423) CPU and MEM counters of AKS clusters show not available
+* [#2418](https://github.com/CirrusByte42/ca9s/issues/2418) Boom! runtime error: invalid memory address or nil pointer dereference
 
 ---
 
@@ -43,6 +43,6 @@ Please dial [K9s Channel](https://www.youtube.com/channel/UC897uwPygni4QIjkPCpgj
 
 Please be sure to give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [#2424](https://github.com/derailed/k9s/pull/2424) fix the check for whether the cluster supports metrics
+* [#2424](https://github.com/CirrusByte42/ca9s/pull/2424) fix the check for whether the cluster supports metrics
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2023 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

@@ -34,12 +34,12 @@ How cool is that?
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #778](https://github.com/derailed/k9s/issues/778)
-* [Issue #774](https://github.com/derailed/k9s/issues/774)
-* [Issue #761](https://github.com/derailed/k9s/issues/761)
-* [Issue #759](https://github.com/derailed/k9s/issues/759)
-* [Issue #758](https://github.com/derailed/k9s/issues/758)
-* [PR #746](https://github.com/derailed/k9s/pull/746) Big Thanks to [Groselt](https://github.com/groselt)!
+* [Issue #778](https://github.com/CirrusByte42/ca9s/issues/778)
+* [Issue #774](https://github.com/CirrusByte42/ca9s/issues/774)
+* [Issue #761](https://github.com/CirrusByte42/ca9s/issues/761)
+* [Issue #759](https://github.com/CirrusByte42/ca9s/issues/759)
+* [Issue #758](https://github.com/CirrusByte42/ca9s/issues/758)
+* [PR #746](https://github.com/CirrusByte42/ca9s/pull/746) Big Thanks to [Groselt](https://github.com/groselt)!
 
 ---
 

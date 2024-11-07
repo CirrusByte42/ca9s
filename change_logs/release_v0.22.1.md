@@ -16,9 +16,9 @@ Maintenance Release!
 
 ## Resolved Issues/Features
 
-* [Issue #882](https://github.com/derailed/k9s/issues/882) After filtering objects cannot enter them anymore
-* [Issue #881](https://github.com/derailed/k9s/issues/881) CPU limit percentage in pod view counts containers without limits
-* [Issue #880](https://github.com/derailed/k9s/issues/880) filtering/search doesn't take all columns into account anymore
+* [Issue #882](https://github.com/CirrusByte42/ca9s/issues/882) After filtering objects cannot enter them anymore
+* [Issue #881](https://github.com/CirrusByte42/ca9s/issues/881) CPU limit percentage in pod view counts containers without limits
+* [Issue #880](https://github.com/CirrusByte42/ca9s/issues/880) filtering/search doesn't take all columns into account anymore
 
 ## Resolved PRs
 

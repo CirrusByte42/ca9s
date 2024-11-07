@@ -44,28 +44,28 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1917](https://github.com/derailed/k9s/issues/1917) Crash on open single ingress from list
-* [Issue #1906](https://github.com/derailed/k9s/issues/1680) k9s exits silently if screenDumpDir cannot be created
-* [Issue #1661](https://github.com/derailed/k9s/issues/1661) ClusterRole with wrong privilege list display
-* [Issue #1680](https://github.com/derailed/k9s/issues/1680) Change pod kill grace period for 0 to 1
+* [Issue #1917](https://github.com/CirrusByte42/ca9s/issues/1917) Crash on open single ingress from list
+* [Issue #1906](https://github.com/CirrusByte42/ca9s/issues/1680) k9s exits silently if screenDumpDir cannot be created
+* [Issue #1661](https://github.com/CirrusByte42/ca9s/issues/1661) ClusterRole with wrong privilege list display
+* [Issue #1680](https://github.com/CirrusByte42/ca9s/issues/1680) Change pod kill grace period for 0 to 1
 
 ## Contributed PRs
 
 Please give `Big Thanks!` and `ATTA Girls/Boys!` to all the fine contributors for making K9s better for all of us!!
 
-* [PR #1910](https://github.com/derailed/k9s/pull/1910) Replace x86_64 to amd64 build
-* [PR #1877](https://github.com/derailed/k9s/pull/1877) Bug: portforward custom containers not showing
-* [PR #1874](https://github.com/derailed/k9s/pull/1874) Feat: Add noLastestRevCheck config option
-* [PR #1872](https://github.com/derailed/k9s/pull/1872) Docs: Add k8s client compatibility matrix
-* [PR #1871](https://github.com/derailed/k9s/pull/1871) Bug: update scanSA calls to account for blank service accounts
-* [PR #1866](https://github.com/derailed/k9s/pull/1866) Bug: Fix order of arguments for CanI function call
-* [PR #1859](https://github.com/derailed/k9s/pull/1859) FEAT: Add vim-like quit force option
-* [PR #1849](https://github.com/derailed/k9s/pull/1849) Bug: Fix build date for OSX
-* [PR #1847](https://github.com/derailed/k9s/pull/1847) FEAT: Add labels configuration for shell node pod
-* [PR #1840](https://github.com/derailed/k9s/pull/1840) FEAT: Add policy view to service accounts
-* [PR #1837](https://github.com/derailed/k9s/pull/1837) FEAT: Use default terminal colors for better readability
-* [PR #1830](https://github.com/derailed/k9s/pull/1830) FEAT: Plugin support for carvel kapp CR
-* [PR #1829](https://github.com/derailed/k9s/pull/1829) FEAT: flux.yml plugin new displays stderr messages
+* [PR #1910](https://github.com/CirrusByte42/ca9s/pull/1910) Replace x86_64 to amd64 build
+* [PR #1877](https://github.com/CirrusByte42/ca9s/pull/1877) Bug: portforward custom containers not showing
+* [PR #1874](https://github.com/CirrusByte42/ca9s/pull/1874) Feat: Add noLastestRevCheck config option
+* [PR #1872](https://github.com/CirrusByte42/ca9s/pull/1872) Docs: Add k8s client compatibility matrix
+* [PR #1871](https://github.com/CirrusByte42/ca9s/pull/1871) Bug: update scanSA calls to account for blank service accounts
+* [PR #1866](https://github.com/CirrusByte42/ca9s/pull/1866) Bug: Fix order of arguments for CanI function call
+* [PR #1859](https://github.com/CirrusByte42/ca9s/pull/1859) FEAT: Add vim-like quit force option
+* [PR #1849](https://github.com/CirrusByte42/ca9s/pull/1849) Bug: Fix build date for OSX
+* [PR #1847](https://github.com/CirrusByte42/ca9s/pull/1847) FEAT: Add labels configuration for shell node pod
+* [PR #1840](https://github.com/CirrusByte42/ca9s/pull/1840) FEAT: Add policy view to service accounts
+* [PR #1837](https://github.com/CirrusByte42/ca9s/pull/1837) FEAT: Use default terminal colors for better readability
+* [PR #1830](https://github.com/CirrusByte42/ca9s/pull/1830) FEAT: Plugin support for carvel kapp CR
+* [PR #1829](https://github.com/CirrusByte42/ca9s/pull/1829) FEAT: flux.yml plugin new displays stderr messages
 
 ---
 

@@ -35,8 +35,8 @@ Hoy! end of year suck... Feeling the burn ;( Apologize for the disruptions...
 
 ## Resolved Issues
 
-* [Issue #1374](https://github.com/derailed/k9s/issues/1374) --all-namespaces does not work v0.25.10
-* [Issue #1376](https://github.com/derailed/k9s/issues/1376) Events not sorted correctly by dates
-* [Issue #1373](https://github.com/derailed/k9s/issues/1373) change namespace not possible
+* [Issue #1374](https://github.com/CirrusByte42/ca9s/issues/1374) --all-namespaces does not work v0.25.10
+* [Issue #1376](https://github.com/CirrusByte42/ca9s/issues/1376) Events not sorted correctly by dates
+* [Issue #1373](https://github.com/CirrusByte42/ca9s/issues/1373) change namespace not possible
 
 <img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/imhotep_logo.png" width="32" height="auto"/> © 2021 Imhotep Software LLC. All materials licensed under [Apache v2.0](http://www.apache.org/licenses/LICENSE-2.0)

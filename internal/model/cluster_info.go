@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/derailed/k9s/internal/config"
+	"github.com/CirrusByte42/ca9s/internal/config"
 
-	"github.com/derailed/k9s/internal/client"
-	"github.com/derailed/k9s/internal/dao"
+	"github.com/CirrusByte42/ca9s/internal/client"
+	"github.com/CirrusByte42/ca9s/internal/dao"
 	"github.com/rs/zerolog/log"
 	"k8s.io/apimachinery/pkg/util/cache"
 )

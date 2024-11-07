@@ -20,11 +20,11 @@ K9s now provides an affordance to filter Kubernetes resources by label (Feature 
 
 ## Resolved Bugs/Features
 
-+ [Feature #233](https://github.com/derailed/k9s/issues/233)
-+ [Issue #232](https://github.com/derailed/k9s/issues/232)
-+ [Issue #230](https://github.com/derailed/k9s/issues/230)
-+ [Issue #229](https://github.com/derailed/k9s/issues/229)
-+ [Issue #226](https://github.com/derailed/k9s/issues/226) Thank you for the excellent PR [Yves Blusseau](https://github.com/JrCs)
++ [Feature #233](https://github.com/CirrusByte42/ca9s/issues/233)
++ [Issue #232](https://github.com/CirrusByte42/ca9s/issues/232)
++ [Issue #230](https://github.com/CirrusByte42/ca9s/issues/230)
++ [Issue #229](https://github.com/CirrusByte42/ca9s/issues/229)
++ [Issue #226](https://github.com/CirrusByte42/ca9s/issues/226) Thank you for the excellent PR [Yves Blusseau](https://github.com/JrCs)
 
 ---
 

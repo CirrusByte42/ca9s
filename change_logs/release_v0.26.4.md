@@ -42,25 +42,25 @@ To all the good folks below that opted to `pay it forward` and join our sponsors
 
 ## Resolved Issues
 
-* [Issue #1742](https://github.com/derailed/k9s/issues/1742) Edit and shell not working on Arch linux
-* [Issue #1724](https://github.com/derailed/k9s/issues/1724) redundant conversion exists
-* [Issue #1714](https://github.com/derailed/k9s/issues/1714) Cronjob: don't highlight changes in `last schedule`
-* [Issue #1711](https://github.com/derailed/k9s/issues/1711) Unable to see CRDs
-* [Issue #1700](https://github.com/derailed/k9s/issues/1700) Ctrl+D removes a pod instantly
+* [Issue #1742](https://github.com/CirrusByte42/ca9s/issues/1742) Edit and shell not working on Arch linux
+* [Issue #1724](https://github.com/CirrusByte42/ca9s/issues/1724) redundant conversion exists
+* [Issue #1714](https://github.com/CirrusByte42/ca9s/issues/1714) Cronjob: don't highlight changes in `last schedule`
+* [Issue #1711](https://github.com/CirrusByte42/ca9s/issues/1711) Unable to see CRDs
+* [Issue #1700](https://github.com/CirrusByte42/ca9s/issues/1700) Ctrl+D removes a pod instantly
 
 ---
 
 ## Contributed PRs (Thank you!!)
 
-* [PR #1759](https://github.com/derailed/k9s/pull/1759) Fix typo in cronjob
-* [PR #1755](https://github.com/derailed/k9s/pull/1755) List all helm releases by default
-* [PR #1753](https://github.com/derailed/k9s/pull/1753) Fix flux plugin to properly handle trace
-* [PR #1744](https://github.com/derailed/k9s/pull/1744) README: correct (auto-)port-forwards annotations
-* [PR #1739](https://github.com/derailed/k9s/pull/1739) Fix GracePeriodSeconds
-* [PR #1725](https://github.com/derailed/k9s/pull/1725) fix redundant type conversion code
-* [PR #1721](https://github.com/derailed/k9s/pull/1721) Replace keyboard package
-* [PR #1711](https://github.com/derailed/k9s/pull/1711) Fix get CustomResourceDefinition
-* [PR #1709](https://github.com/derailed/k9s/pull/1709) Plugin for opening a root shell to k3d container
+* [PR #1759](https://github.com/CirrusByte42/ca9s/pull/1759) Fix typo in cronjob
+* [PR #1755](https://github.com/CirrusByte42/ca9s/pull/1755) List all helm releases by default
+* [PR #1753](https://github.com/CirrusByte42/ca9s/pull/1753) Fix flux plugin to properly handle trace
+* [PR #1744](https://github.com/CirrusByte42/ca9s/pull/1744) README: correct (auto-)port-forwards annotations
+* [PR #1739](https://github.com/CirrusByte42/ca9s/pull/1739) Fix GracePeriodSeconds
+* [PR #1725](https://github.com/CirrusByte42/ca9s/pull/1725) fix redundant type conversion code
+* [PR #1721](https://github.com/CirrusByte42/ca9s/pull/1721) Replace keyboard package
+* [PR #1711](https://github.com/CirrusByte42/ca9s/pull/1711) Fix get CustomResourceDefinition
+* [PR #1709](https://github.com/CirrusByte42/ca9s/pull/1709) Plugin for opening a root shell to k3d container
 
 ---
 

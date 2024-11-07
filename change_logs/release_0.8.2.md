@@ -20,7 +20,7 @@ In this quick drop, we've opted to nuke any menu shortcut using the infamous `Al
 
 ## Resolved Bugs/Features
 
-+ Nuked Alt-XXX menu mnemonic [Issue #285](https://github.com/derailed/k9s/issues/285)
++ Nuked Alt-XXX menu mnemonic [Issue #285](https://github.com/CirrusByte42/ca9s/issues/285)
 
 ---
 

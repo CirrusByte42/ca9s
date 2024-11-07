@@ -21,12 +21,12 @@ As of this drop, you can now perform direct cluster nodes maintenance by leverag
 
 ## Resolved Bugs/Features/PRs
 
-- [Issue #612](https://github.com/derailed/k9s/issues/612)
-- [Issue #608](https://github.com/derailed/k9s/issues/608)
-- [Issue #606](https://github.com/derailed/k9s/issues/606)
-- [Issue #237](https://github.com/derailed/k9s/issues/237)
-- [PR #607](https://github.com/derailed/k9s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
-- [PR #570](https://github.com/derailed/k9s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
+- [Issue #612](https://github.com/CirrusByte42/ca9s/issues/612)
+- [Issue #608](https://github.com/CirrusByte42/ca9s/issues/608)
+- [Issue #606](https://github.com/CirrusByte42/ca9s/issues/606)
+- [Issue #237](https://github.com/CirrusByte42/ca9s/issues/237)
+- [PR #607](https://github.com/CirrusByte42/ca9s/pull/607) ATTA Boy! [Jeff Widman](https://github.com/jeffwidman)
+- [PR #570](https://github.com/CirrusByte42/ca9s/pull/570) Thank you [Ludovico Rosso](https://github.com/ludusrusso)!
 
 ---
 

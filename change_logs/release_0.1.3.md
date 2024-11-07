@@ -32,11 +32,11 @@ Thank you so much for your support!!
 ---
 ## Resolved Bugs
 
-+ [Issue #50](https://github.com/derailed/k9s/issues/50)
-+ [Issue #44](https://github.com/derailed/k9s/issues/44)
-+ [Issue #42](https://github.com/derailed/k9s/issues/42)
-+ [Issue #38](https://github.com/derailed/k9s/issues/38)
-+ [Issue #36](https://github.com/derailed/k9s/issues/36)
-+ [Issue #28](https://github.com/derailed/k9s/issues/28)
-+ [Issue #24](https://github.com/derailed/k9s/issues/24)
-+ [Issue #24](https://github.com/derailed/k9s/issues/3)
++ [Issue #50](https://github.com/CirrusByte42/ca9s/issues/50)
++ [Issue #44](https://github.com/CirrusByte42/ca9s/issues/44)
++ [Issue #42](https://github.com/CirrusByte42/ca9s/issues/42)
++ [Issue #38](https://github.com/CirrusByte42/ca9s/issues/38)
++ [Issue #36](https://github.com/CirrusByte42/ca9s/issues/36)
++ [Issue #28](https://github.com/CirrusByte42/ca9s/issues/28)
++ [Issue #24](https://github.com/CirrusByte42/ca9s/issues/24)
++ [Issue #24](https://github.com/CirrusByte42/ca9s/issues/3)

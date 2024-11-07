@@ -60,13 +60,13 @@ k9s:
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #647](https://github.com/derailed/k9s/issues/647)
-* [Issue #645](https://github.com/derailed/k9s/issues/645)
-* [Issue #640](https://github.com/derailed/k9s/issues/640)
-* [Issue #639](https://github.com/derailed/k9s/issues/639)
-* [Issue #635](https://github.com/derailed/k9s/issues/635)
-* [Issue #634](https://github.com/derailed/k9s/issues/634) Thank you!! [David Němec](https://github.com/davidnemec)
-* [Issue #626](https://github.com/derailed/k9s/issues/626)
+* [Issue #647](https://github.com/CirrusByte42/ca9s/issues/647)
+* [Issue #645](https://github.com/CirrusByte42/ca9s/issues/645)
+* [Issue #640](https://github.com/CirrusByte42/ca9s/issues/640)
+* [Issue #639](https://github.com/CirrusByte42/ca9s/issues/639)
+* [Issue #635](https://github.com/CirrusByte42/ca9s/issues/635)
+* [Issue #634](https://github.com/CirrusByte42/ca9s/issues/634) Thank you!! [David Němec](https://github.com/davidnemec)
+* [Issue #626](https://github.com/CirrusByte42/ca9s/issues/626)
 
 ---
 

@@ -16,20 +16,20 @@ Maintenance release
 
 ## Merged PRs
 
-* [PR #385](https://github.com/derailed/k9s/pull/385) Remove debugging calls from HPA
-* [PR #384](https://github.com/derailed/k9s/issues/384) Invalidate cache when switching context
-* [PR #372](https://github.com/derailed/k9s/pull/372) Fix race when switching context
+* [PR #385](https://github.com/CirrusByte42/ca9s/pull/385) Remove debugging calls from HPA
+* [PR #384](https://github.com/CirrusByte42/ca9s/issues/384) Invalidate cache when switching context
+* [PR #372](https://github.com/CirrusByte42/ca9s/pull/372) Fix race when switching context
 
 ---
 
 ## Resolved Bugs/Features
 
-* [Issue #392](https://github.com/derailed/k9s/issues/392)
-* [Issue #389](https://github.com/derailed/k9s/issues/389)
-* [Issue #386](https://github.com/derailed/k9s/issues/386)
-* [Issue #383](https://github.com/derailed/k9s/issues/383)
-* [Issue #382](https://github.com/derailed/k9s/issues/382)
-* [Issue #336](https://github.com/derailed/k9s/issues/336) NOTE: Sticky filters have been removed for now until we have a better plan.
+* [Issue #392](https://github.com/CirrusByte42/ca9s/issues/392)
+* [Issue #389](https://github.com/CirrusByte42/ca9s/issues/389)
+* [Issue #386](https://github.com/CirrusByte42/ca9s/issues/386)
+* [Issue #383](https://github.com/CirrusByte42/ca9s/issues/383)
+* [Issue #382](https://github.com/CirrusByte42/ca9s/issues/382)
+* [Issue #336](https://github.com/CirrusByte42/ca9s/issues/336) NOTE: Sticky filters have been removed for now until we have a better plan.
 
 ---
 

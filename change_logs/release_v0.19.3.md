@@ -59,11 +59,11 @@ As you may know K9s currently uses your `EDITOR` env var to launch an editor whi
 
 ## Resolved Bugs/Features/PRs
 
-* [Issue #669](https://github.com/derailed/k9s/issues/669)
-* [Issue #677](https://github.com/derailed/k9s/issues/677)
-* [Issue #673](https://github.com/derailed/k9s/issues/673)
-* [Issue #671](https://github.com/derailed/k9s/issues/671)
-* [Issue #670](https://github.com/derailed/k9s/issues/670)
+* [Issue #669](https://github.com/CirrusByte42/ca9s/issues/669)
+* [Issue #677](https://github.com/CirrusByte42/ca9s/issues/677)
+* [Issue #673](https://github.com/CirrusByte42/ca9s/issues/673)
+* [Issue #671](https://github.com/CirrusByte42/ca9s/issues/671)
+* [Issue #670](https://github.com/CirrusByte42/ca9s/issues/670)
 
 ---
 
